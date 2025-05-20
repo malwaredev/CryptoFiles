@@ -1,0 +1,4868 @@
+{
+  "connections": [
+    {
+      "source_address": "1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa",
+      "connected_address": "bc1qys68v7mtpcjr737lvycju8e8czmrlmqrt5wl8y",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "7697f75a20fea067fb908729204c01b0e481d747dde86583f943d5f3a3809f8e",
+      "value": 546,
+      "risk_assessment": {
+        "score": 65,
+        "level": "High",
+        "factors": [
+          {
+            "factor": "Chain Peel",
+            "weight": 65
+          }
+        ],
+        "category": "Chain Peeling",
+        "timestamp": "2025-05-19T12:32:37.830094"
+      }
+    },
+    {
+      "source_address": "1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa",
+      "connected_address": "bc1p2650vd8vpexkflk0mvh03p8ktn0tzquq6593p6qeyrm5ne03y0nqkcnquj",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "7697f75a20fea067fb908729204c01b0e481d747dde86583f943d5f3a3809f8e",
+      "value": 546,
+      "risk_assessment": {
+        "score": 65,
+        "level": "High",
+        "factors": [
+          {
+            "factor": "Chain Peel",
+            "weight": 65
+          }
+        ],
+        "category": "Chain Peeling",
+        "timestamp": "2025-05-19T12:32:37.830304"
+      }
+    },
+    {
+      "source_address": "1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa",
+      "connected_address": "3KcJzZDVLNE5FLQSagxyC6seQYPmz2d75U",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "9fd2b8f3633bd228c5e702b92d5c2a4a0a6851854d5d423b5a8c039e7b6ee5e3",
+      "value": 546,
+      "risk_assessment": {
+        "score": 65,
+        "level": "High",
+        "factors": [
+          {
+            "factor": "Chain Peel",
+            "weight": 65
+          }
+        ],
+        "category": "Chain Peeling",
+        "timestamp": "2025-05-19T12:32:37.830557"
+      }
+    },
+    {
+      "source_address": "1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa",
+      "connected_address": "bc1p5cyguxyrgcnrtfdrkcsyznegcpyp4pgssxwchsqnx59jl76n9puq57y7he",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "9fd2b8f3633bd228c5e702b92d5c2a4a0a6851854d5d423b5a8c039e7b6ee5e3",
+      "value": 546,
+      "risk_assessment": {
+        "score": 65,
+        "level": "High",
+        "factors": [
+          {
+            "factor": "Chain Peel",
+            "weight": 65
+          }
+        ],
+        "category": "Chain Peeling",
+        "timestamp": "2025-05-19T12:32:37.830665"
+      }
+    },
+    {
+      "source_address": "1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa",
+      "connected_address": "3HtMkkeeyrkYnsVyHzJKLcMwBqvDp2DDoo",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "6b884ea73c87173cc8fd6ed9e3d5fa456598325e0980c9658354fd7d90d3df73",
+      "value": 546,
+      "risk_assessment": {
+        "score": 65,
+        "level": "High",
+        "factors": [
+          {
+            "factor": "Chain Peel",
+            "weight": 65
+          }
+        ],
+        "category": "Chain Peeling",
+        "timestamp": "2025-05-19T12:32:37.830859"
+      }
+    },
+    {
+      "source_address": "1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa",
+      "connected_address": "bc1prqytzua9uehu7wrk0a0dx72feu86m7r7uurv94efahcqgyqaymkqmw6aeh",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "6b884ea73c87173cc8fd6ed9e3d5fa456598325e0980c9658354fd7d90d3df73",
+      "value": 546,
+      "risk_assessment": {
+        "score": 65,
+        "level": "High",
+        "factors": [
+          {
+            "factor": "Chain Peel",
+            "weight": 65
+          }
+        ],
+        "category": "Chain Peeling",
+        "timestamp": "2025-05-19T12:32:37.830945"
+      }
+    },
+    {
+      "source_address": "1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa",
+      "connected_address": "bc1pywqxf7nkawwvm3zm9lyc3cdcy3taywfgywgc5r4ywd437gkp7jgqhdk25c",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "2dc34cdb5c52143b4e07117663dd1a9e323bc3725e7fb6409a6e477626f01ddc",
+      "value": 546,
+      "risk_assessment": {
+        "score": 100,
+        "level": "Critical",
+        "factors": [
+          {
+            "factor": "Mixing Service",
+            "weight": 80
+          },
+          {
+            "factor": "Multiple Inputs Outputs",
+            "weight": 30
+          }
+        ],
+        "category": "Possible Mixing",
+        "timestamp": "2025-05-19T12:32:37.831138"
+      }
+    },
+    {
+      "source_address": "1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa",
+      "connected_address": "bc1qglzn46mf6zy630h6r6ky884zt7365ml70edfmz",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "2dc34cdb5c52143b4e07117663dd1a9e323bc3725e7fb6409a6e477626f01ddc",
+      "value": 546,
+      "risk_assessment": {
+        "score": 100,
+        "level": "Critical",
+        "factors": [
+          {
+            "factor": "Mixing Service",
+            "weight": 80
+          },
+          {
+            "factor": "Multiple Inputs Outputs",
+            "weight": 30
+          }
+        ],
+        "category": "Possible Mixing",
+        "timestamp": "2025-05-19T12:32:37.831252"
+      }
+    },
+    {
+      "source_address": "1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa",
+      "connected_address": "3K3xpeWiKA7zNVYeksP6FUajNSTUdQjZNM",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "7c6f86192c90779aadd582ce11b46a1db942306b3702a5780ffc2299cbb110c7",
+      "value": 546,
+      "risk_assessment": {
+        "score": 65,
+        "level": "High",
+        "factors": [
+          {
+            "factor": "Chain Peel",
+            "weight": 65
+          }
+        ],
+        "category": "Chain Peeling",
+        "timestamp": "2025-05-19T12:32:37.831435"
+      }
+    },
+    {
+      "source_address": "1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa",
+      "connected_address": "bc1ppvgp222uthfryjqkte70nhw48pf95y8psppsralmv69aws78r65q7m9up3",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "7c6f86192c90779aadd582ce11b46a1db942306b3702a5780ffc2299cbb110c7",
+      "value": 546,
+      "risk_assessment": {
+        "score": 65,
+        "level": "High",
+        "factors": [
+          {
+            "factor": "Chain Peel",
+            "weight": 65
+          }
+        ],
+        "category": "Chain Peeling",
+        "timestamp": "2025-05-19T12:32:37.831520"
+      }
+    },
+    {
+      "source_address": "1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa",
+      "connected_address": "bc1pdpevudzqqfjxcye7fw5l4szmpn0nn7jnsd0fejrjnycuqdsrpxzshe5vw9",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "a57b29a5323024375decc785c46510e77feb6d7b78d5bd59b062f4dfa0220353",
+      "value": 546,
+      "risk_assessment": {
+        "score": 65,
+        "level": "High",
+        "factors": [
+          {
+            "factor": "Chain Peel",
+            "weight": 65
+          }
+        ],
+        "category": "Chain Peeling",
+        "timestamp": "2025-05-19T12:32:37.831701"
+      }
+    },
+    {
+      "source_address": "1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa",
+      "connected_address": "3H7MFfEPaHzhx4jdaCmLFpyUcWZZmTkgur",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "a57b29a5323024375decc785c46510e77feb6d7b78d5bd59b062f4dfa0220353",
+      "value": 546,
+      "risk_assessment": {
+        "score": 65,
+        "level": "High",
+        "factors": [
+          {
+            "factor": "Chain Peel",
+            "weight": 65
+          }
+        ],
+        "category": "Chain Peeling",
+        "timestamp": "2025-05-19T12:32:37.831792"
+      }
+    },
+    {
+      "source_address": "1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa",
+      "connected_address": "3QTHJCD3BbaYXSeoQteLkWqVjsRdoGaDXX",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "cf252cdf79992c9d36e796d8d9fcc40d5f1eafb53c7575016ceded01846e6f69",
+      "value": 546,
+      "risk_assessment": {
+        "score": 65,
+        "level": "High",
+        "factors": [
+          {
+            "factor": "Chain Peel",
+            "weight": 65
+          }
+        ],
+        "category": "Chain Peeling",
+        "timestamp": "2025-05-19T12:32:37.831968"
+      }
+    },
+    {
+      "source_address": "1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa",
+      "connected_address": "bc1pkpn768rmgnt7s9xewavncyjt0wefwy2r83k7npwn7q7620xwwclq9dy6f2",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "cf252cdf79992c9d36e796d8d9fcc40d5f1eafb53c7575016ceded01846e6f69",
+      "value": 546,
+      "risk_assessment": {
+        "score": 65,
+        "level": "High",
+        "factors": [
+          {
+            "factor": "Chain Peel",
+            "weight": 65
+          }
+        ],
+        "category": "Chain Peeling",
+        "timestamp": "2025-05-19T12:32:37.832049"
+      }
+    },
+    {
+      "source_address": "1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa",
+      "connected_address": "bc1q4w2ccq5kxg207lpg3yzwlt4tuwc3eu7yz4zdf9",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "a8a4352746787eb9b46495afd4ee7f925e58fb3705b76513d057f53685c79718",
+      "value": 3120,
+      "risk_assessment": {
+        "score": 65,
+        "level": "High",
+        "factors": [
+          {
+            "factor": "Chain Peel",
+            "weight": 65
+          }
+        ],
+        "category": "Chain Peeling",
+        "timestamp": "2025-05-19T12:32:37.832332"
+      }
+    },
+    {
+      "source_address": "1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa",
+      "connected_address": "bc1q9kuumk05w899hf4al4xlwnz362n2vghjxv2zrw",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "87aae203290f0f7ac6692e25a1219bd72189c219b7738a9c890cbbc2ba4cd5e1",
+      "value": 546,
+      "risk_assessment": {
+        "score": 65,
+        "level": "High",
+        "factors": [
+          {
+            "factor": "Chain Peel",
+            "weight": 65
+          }
+        ],
+        "category": "Chain Peeling",
+        "timestamp": "2025-05-19T12:32:37.832529"
+      }
+    },
+    {
+      "source_address": "1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa",
+      "connected_address": "bc1pshz9v4v0ew940sprmth86v666z6kfdd748tw0ygmygc50009gz4s0har4u",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "87aae203290f0f7ac6692e25a1219bd72189c219b7738a9c890cbbc2ba4cd5e1",
+      "value": 546,
+      "risk_assessment": {
+        "score": 65,
+        "level": "High",
+        "factors": [
+          {
+            "factor": "Chain Peel",
+            "weight": 65
+          }
+        ],
+        "category": "Chain Peeling",
+        "timestamp": "2025-05-19T12:32:37.832614"
+      }
+    },
+    {
+      "source_address": "1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa",
+      "connected_address": "3Jgx5sSJajw8KcdwJGpuEoaPg6c5zUCfd8",
+      "connection_type": "received_from",
+      "transaction_count": 11,
+      "first_seen": "",
+      "transaction_hashes": "8caec799fbd3038034cc17b421529c008ca0234dd74b2792631b085d45e9ccd5,acefab1fbe09cef35b31a425a48ee60c4602665d14160c61304a42331dfc26be,f880089131849194eb7c35fabf21898ee37ec8f9f269b4e2abd839012a80f7aa,bb1bd7212b0cba38023473e35c56d2f039c83ff88c1d690833abda06b478bfe2,88eb7c854d000693e704c2698262321d37b0bb4c6b1a2addca5b80a3a72f4cb7,35900711408e4cb00c4d4af9fe3629675c9fcb6d02023543a1bcda1729944ced,cfd5047c3959b6447b7f43366087694db64adb94bc7990cb5c417470cc94b2e4,ee06aed96d2fb1164d805345fd2f2cb01718b3fc92edec884b459096a15d6281,8de6bae6a62bceee789b7acbc87224267d2346c4ee7d1ade8a6a468a3d346fb2,eb6f64a9c536f1d976ef4987b137efdc73ab8c5d9f750438ddd4fd6a8c145f87,f7a92bb805839014a53a5f2e3fa1925d88f5fd433a70692e97cb9e8ca1ee9946",
+      "value": 546,
+      "risk_assessment": {
+        "score": 65,
+        "level": "High",
+        "factors": [
+          {
+            "factor": "Chain Peel",
+            "weight": 65
+          }
+        ],
+        "category": "Chain Peeling",
+        "timestamp": "2025-05-19T12:32:37.832856"
+      }
+    },
+    {
+      "source_address": "1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa",
+      "connected_address": "bc1p6jdnrp58y7llcnelyc9r438vwd58z4pwnjteyftd4ft99ywfrrdquhnw73",
+      "connection_type": "received_from",
+      "transaction_count": 11,
+      "first_seen": "",
+      "transaction_hashes": "8caec799fbd3038034cc17b421529c008ca0234dd74b2792631b085d45e9ccd5,acefab1fbe09cef35b31a425a48ee60c4602665d14160c61304a42331dfc26be,f880089131849194eb7c35fabf21898ee37ec8f9f269b4e2abd839012a80f7aa,bb1bd7212b0cba38023473e35c56d2f039c83ff88c1d690833abda06b478bfe2,88eb7c854d000693e704c2698262321d37b0bb4c6b1a2addca5b80a3a72f4cb7,35900711408e4cb00c4d4af9fe3629675c9fcb6d02023543a1bcda1729944ced,cfd5047c3959b6447b7f43366087694db64adb94bc7990cb5c417470cc94b2e4,ee06aed96d2fb1164d805345fd2f2cb01718b3fc92edec884b459096a15d6281,8de6bae6a62bceee789b7acbc87224267d2346c4ee7d1ade8a6a468a3d346fb2,eb6f64a9c536f1d976ef4987b137efdc73ab8c5d9f750438ddd4fd6a8c145f87,f7a92bb805839014a53a5f2e3fa1925d88f5fd433a70692e97cb9e8ca1ee9946",
+      "value": 546,
+      "risk_assessment": {
+        "score": 65,
+        "level": "High",
+        "factors": [
+          {
+            "factor": "Chain Peel",
+            "weight": 65
+          }
+        ],
+        "category": "Chain Peeling",
+        "timestamp": "2025-05-19T12:32:37.832936"
+      }
+    },
+    {
+      "source_address": "3E8ociqZa9mZUSwGdSmAEMAoAxBK3FNDcd",
+      "connected_address": "bc1q4wm0q5plqlecz8kya7t2m94v538x36famw7ay2",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "b0ff0c44d52d040b847080f90ef5d13097ead6eb2d0cf902d71243a1bfaa76b7",
+      "value": 858,
+      "risk_assessment": {
+        "score": 65,
+        "level": "High",
+        "factors": [
+          {
+            "factor": "Chain Peel",
+            "weight": 65
+          }
+        ],
+        "category": "Chain Peeling",
+        "timestamp": "2025-05-19T12:32:47.878452"
+      }
+    },
+    {
+      "source_address": "3E8ociqZa9mZUSwGdSmAEMAoAxBK3FNDcd",
+      "connected_address": "bc1q5rquk9r47xun3qedxctvn6fdjjy73jz4fq2mth",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "78910859cc8e9dc31a7d26ae8f9fcd9c5d19b1b92c01bc9c7608b0d3bd175c2c",
+      "value": 20000,
+      "risk_assessment": {
+        "score": 65,
+        "level": "High",
+        "factors": [
+          {
+            "factor": "Chain Peel",
+            "weight": 65
+          }
+        ],
+        "category": "Chain Peeling",
+        "timestamp": "2025-05-19T12:32:47.878629"
+      }
+    },
+    {
+      "source_address": "3E8ociqZa9mZUSwGdSmAEMAoAxBK3FNDcd",
+      "connected_address": "bc1qj5w02nhc273tl20acflxn453ggqz9tnhxm56zz",
+      "connection_type": "sent_to",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "4cd7944c88995d9b1503c9996d3147d7989f61005338c0a55498268ceb267553",
+      "value": 80325,
+      "risk_assessment": {
+        "score": 0,
+        "level": "Low",
+        "factors": [],
+        "category": "Complex Transaction",
+        "timestamp": "2025-05-19T12:32:47.878783"
+      }
+    },
+    {
+      "source_address": "3E8ociqZa9mZUSwGdSmAEMAoAxBK3FNDcd",
+      "connected_address": "bc1qn20uegh6tg2wyahge2vsxhxxhd0a553rr2ccuu",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "27d9ebe3a43c465b27291502644464b8937b6c1f59891399400bfb623003386f",
+      "value": 8685,
+      "risk_assessment": {
+        "score": 100,
+        "level": "Critical",
+        "factors": [
+          {
+            "factor": "Mixing Service",
+            "weight": 80
+          },
+          {
+            "factor": "Multiple Inputs Outputs",
+            "weight": 30
+          }
+        ],
+        "category": "Possible Mixing",
+        "timestamp": "2025-05-19T12:32:47.879212"
+      }
+    },
+    {
+      "source_address": "3E8ociqZa9mZUSwGdSmAEMAoAxBK3FNDcd",
+      "connected_address": "bc1q24jv89qedx0tyuw4skkfvnde2vqwxkwkvt8m76",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "27d9ebe3a43c465b27291502644464b8937b6c1f59891399400bfb623003386f",
+      "value": 8685,
+      "risk_assessment": {
+        "score": 100,
+        "level": "Critical",
+        "factors": [
+          {
+            "factor": "Mixing Service",
+            "weight": 80
+          },
+          {
+            "factor": "Multiple Inputs Outputs",
+            "weight": 30
+          }
+        ],
+        "category": "Possible Mixing",
+        "timestamp": "2025-05-19T12:32:47.879614"
+      }
+    },
+    {
+      "source_address": "3E8ociqZa9mZUSwGdSmAEMAoAxBK3FNDcd",
+      "connected_address": "bc1q4cnu2kuufuvp5d40eupdxcjl7yvhwdjennndsc",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "27d9ebe3a43c465b27291502644464b8937b6c1f59891399400bfb623003386f",
+      "value": 8685,
+      "risk_assessment": {
+        "score": 100,
+        "level": "Critical",
+        "factors": [
+          {
+            "factor": "Mixing Service",
+            "weight": 80
+          },
+          {
+            "factor": "Multiple Inputs Outputs",
+            "weight": 30
+          }
+        ],
+        "category": "Possible Mixing",
+        "timestamp": "2025-05-19T12:32:47.879891"
+      }
+    },
+    {
+      "source_address": "3E8ociqZa9mZUSwGdSmAEMAoAxBK3FNDcd",
+      "connected_address": "bc1qtkzq49uzh0nn0kd78mulalwwkme57ynnhryjs9",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "27d9ebe3a43c465b27291502644464b8937b6c1f59891399400bfb623003386f",
+      "value": 8685,
+      "risk_assessment": {
+        "score": 100,
+        "level": "Critical",
+        "factors": [
+          {
+            "factor": "Mixing Service",
+            "weight": 80
+          },
+          {
+            "factor": "Multiple Inputs Outputs",
+            "weight": 30
+          }
+        ],
+        "category": "Possible Mixing",
+        "timestamp": "2025-05-19T12:32:47.880196"
+      }
+    },
+    {
+      "source_address": "3E8ociqZa9mZUSwGdSmAEMAoAxBK3FNDcd",
+      "connected_address": "bc1qqkshn6pwvn9e44rv2sf46uka0wh8ru66nuqyzm",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "27d9ebe3a43c465b27291502644464b8937b6c1f59891399400bfb623003386f",
+      "value": 8685,
+      "risk_assessment": {
+        "score": 100,
+        "level": "Critical",
+        "factors": [
+          {
+            "factor": "Mixing Service",
+            "weight": 80
+          },
+          {
+            "factor": "Multiple Inputs Outputs",
+            "weight": 30
+          }
+        ],
+        "category": "Possible Mixing",
+        "timestamp": "2025-05-19T12:32:47.880496"
+      }
+    },
+    {
+      "source_address": "3E8ociqZa9mZUSwGdSmAEMAoAxBK3FNDcd",
+      "connected_address": "bc1qzfhruye4serf0m2xwsxfpsrzlma78tr6v8ztk3",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "27d9ebe3a43c465b27291502644464b8937b6c1f59891399400bfb623003386f",
+      "value": 8685,
+      "risk_assessment": {
+        "score": 100,
+        "level": "Critical",
+        "factors": [
+          {
+            "factor": "Mixing Service",
+            "weight": 80
+          },
+          {
+            "factor": "Multiple Inputs Outputs",
+            "weight": 30
+          }
+        ],
+        "category": "Possible Mixing",
+        "timestamp": "2025-05-19T12:32:47.880819"
+      }
+    },
+    {
+      "source_address": "3E8ociqZa9mZUSwGdSmAEMAoAxBK3FNDcd",
+      "connected_address": "bc1q3dy2aqkjj6fzr46ydt2jdkcmcq4kculq3sd44k",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "27d9ebe3a43c465b27291502644464b8937b6c1f59891399400bfb623003386f",
+      "value": 8685,
+      "risk_assessment": {
+        "score": 100,
+        "level": "Critical",
+        "factors": [
+          {
+            "factor": "Mixing Service",
+            "weight": 80
+          },
+          {
+            "factor": "Multiple Inputs Outputs",
+            "weight": 30
+          }
+        ],
+        "category": "Possible Mixing",
+        "timestamp": "2025-05-19T12:32:47.881132"
+      }
+    },
+    {
+      "source_address": "3E8ociqZa9mZUSwGdSmAEMAoAxBK3FNDcd",
+      "connected_address": "bc1q7apwpk67vddxp7qk4wjjd44ekstvnzkuyvgclp",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "27d9ebe3a43c465b27291502644464b8937b6c1f59891399400bfb623003386f",
+      "value": 8685,
+      "risk_assessment": {
+        "score": 100,
+        "level": "Critical",
+        "factors": [
+          {
+            "factor": "Mixing Service",
+            "weight": 80
+          },
+          {
+            "factor": "Multiple Inputs Outputs",
+            "weight": 30
+          }
+        ],
+        "category": "Possible Mixing",
+        "timestamp": "2025-05-19T12:32:47.881477"
+      }
+    },
+    {
+      "source_address": "3E8ociqZa9mZUSwGdSmAEMAoAxBK3FNDcd",
+      "connected_address": "bc1qghxy98829yg9dxr9kamlkmz7phsqxzfl4xhm59",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "27d9ebe3a43c465b27291502644464b8937b6c1f59891399400bfb623003386f",
+      "value": 8685,
+      "risk_assessment": {
+        "score": 100,
+        "level": "Critical",
+        "factors": [
+          {
+            "factor": "Mixing Service",
+            "weight": 80
+          },
+          {
+            "factor": "Multiple Inputs Outputs",
+            "weight": 30
+          }
+        ],
+        "category": "Possible Mixing",
+        "timestamp": "2025-05-19T12:32:47.881829"
+      }
+    },
+    {
+      "source_address": "3E8ociqZa9mZUSwGdSmAEMAoAxBK3FNDcd",
+      "connected_address": "bc1qpv6wxc4ktqvds3gut7m0n4jajln596xna6ztxm",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "27d9ebe3a43c465b27291502644464b8937b6c1f59891399400bfb623003386f",
+      "value": 8685,
+      "risk_assessment": {
+        "score": 100,
+        "level": "Critical",
+        "factors": [
+          {
+            "factor": "Mixing Service",
+            "weight": 80
+          },
+          {
+            "factor": "Multiple Inputs Outputs",
+            "weight": 30
+          }
+        ],
+        "category": "Possible Mixing",
+        "timestamp": "2025-05-19T12:32:47.882181"
+      }
+    },
+    {
+      "source_address": "3E8ociqZa9mZUSwGdSmAEMAoAxBK3FNDcd",
+      "connected_address": "bc1qdg85pqve7amz0arfcad6j7vu4pf90xtfez39z5",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "27d9ebe3a43c465b27291502644464b8937b6c1f59891399400bfb623003386f",
+      "value": 8685,
+      "risk_assessment": {
+        "score": 100,
+        "level": "Critical",
+        "factors": [
+          {
+            "factor": "Mixing Service",
+            "weight": 80
+          },
+          {
+            "factor": "Multiple Inputs Outputs",
+            "weight": 30
+          }
+        ],
+        "category": "Possible Mixing",
+        "timestamp": "2025-05-19T12:32:47.882515"
+      }
+    },
+    {
+      "source_address": "3E8ociqZa9mZUSwGdSmAEMAoAxBK3FNDcd",
+      "connected_address": "bc1qfzvx4s20ycu9k6a2xd49ftdkyu5vfelawf9kls",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "27d9ebe3a43c465b27291502644464b8937b6c1f59891399400bfb623003386f",
+      "value": 8685,
+      "risk_assessment": {
+        "score": 100,
+        "level": "Critical",
+        "factors": [
+          {
+            "factor": "Mixing Service",
+            "weight": 80
+          },
+          {
+            "factor": "Multiple Inputs Outputs",
+            "weight": 30
+          }
+        ],
+        "category": "Possible Mixing",
+        "timestamp": "2025-05-19T12:32:47.882854"
+      }
+    },
+    {
+      "source_address": "3E8ociqZa9mZUSwGdSmAEMAoAxBK3FNDcd",
+      "connected_address": "bc1qsa8gc3d90kyv4ynletjujgxee4ngsmzkm9vgsc",
+      "connection_type": "direct_payment",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "188461ea353979cfcd6869450eca27b09e9b3c1ebf8e9c5ff8a68ce085159032",
+      "value": 29307,
+      "risk_assessment": {
+        "score": 0,
+        "level": "Low",
+        "factors": [],
+        "category": "Self Transfer",
+        "timestamp": "2025-05-19T12:32:47.883022"
+      }
+    },
+    {
+      "source_address": "3E8ociqZa9mZUSwGdSmAEMAoAxBK3FNDcd",
+      "connected_address": "bc1qz8hkvk2j6jn7dvufhw5tlw3slmfs6wl9cf5rvm",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "441874c0e6212379cf60c923bb53367eef5a8ac81b1a6ba34f10d15873511cdc",
+      "value": 7856,
+      "risk_assessment": {
+        "score": 100,
+        "level": "Critical",
+        "factors": [
+          {
+            "factor": "Mixing Service",
+            "weight": 80
+          },
+          {
+            "factor": "Multiple Inputs Outputs",
+            "weight": 30
+          }
+        ],
+        "category": "Possible Mixing",
+        "timestamp": "2025-05-19T12:32:47.883592"
+      }
+    },
+    {
+      "source_address": "3E8ociqZa9mZUSwGdSmAEMAoAxBK3FNDcd",
+      "connected_address": "bc1qtqdtjfathedjaqkmll2wypve4ptxgyvk0fdq6x",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "441874c0e6212379cf60c923bb53367eef5a8ac81b1a6ba34f10d15873511cdc",
+      "value": 7856,
+      "risk_assessment": {
+        "score": 100,
+        "level": "Critical",
+        "factors": [
+          {
+            "factor": "Mixing Service",
+            "weight": 80
+          },
+          {
+            "factor": "Multiple Inputs Outputs",
+            "weight": 30
+          }
+        ],
+        "category": "Possible Mixing",
+        "timestamp": "2025-05-19T12:32:47.883919"
+      }
+    },
+    {
+      "source_address": "3E8ociqZa9mZUSwGdSmAEMAoAxBK3FNDcd",
+      "connected_address": "bc1qcsw463ad34vppj8sq7lh65t0razwx37h380n84",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "441874c0e6212379cf60c923bb53367eef5a8ac81b1a6ba34f10d15873511cdc",
+      "value": 7856,
+      "risk_assessment": {
+        "score": 100,
+        "level": "Critical",
+        "factors": [
+          {
+            "factor": "Mixing Service",
+            "weight": 80
+          },
+          {
+            "factor": "Multiple Inputs Outputs",
+            "weight": 30
+          }
+        ],
+        "category": "Possible Mixing",
+        "timestamp": "2025-05-19T12:32:47.884257"
+      }
+    },
+    {
+      "source_address": "3E8ociqZa9mZUSwGdSmAEMAoAxBK3FNDcd",
+      "connected_address": "bc1qfh0pmc6ahcwnmzn8ze84gk0lhtvq3qgd9275lj",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "441874c0e6212379cf60c923bb53367eef5a8ac81b1a6ba34f10d15873511cdc",
+      "value": 7856,
+      "risk_assessment": {
+        "score": 100,
+        "level": "Critical",
+        "factors": [
+          {
+            "factor": "Mixing Service",
+            "weight": 80
+          },
+          {
+            "factor": "Multiple Inputs Outputs",
+            "weight": 30
+          }
+        ],
+        "category": "Possible Mixing",
+        "timestamp": "2025-05-19T12:32:47.884475"
+      }
+    },
+    {
+      "source_address": "3E8ociqZa9mZUSwGdSmAEMAoAxBK3FNDcd",
+      "connected_address": "bc1q9z685ujdmwmv4ws5yc2fg6znx594k407w5m249",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "441874c0e6212379cf60c923bb53367eef5a8ac81b1a6ba34f10d15873511cdc",
+      "value": 7856,
+      "risk_assessment": {
+        "score": 100,
+        "level": "Critical",
+        "factors": [
+          {
+            "factor": "Mixing Service",
+            "weight": 80
+          },
+          {
+            "factor": "Multiple Inputs Outputs",
+            "weight": 30
+          }
+        ],
+        "category": "Possible Mixing",
+        "timestamp": "2025-05-19T12:32:47.884658"
+      }
+    },
+    {
+      "source_address": "3E8ociqZa9mZUSwGdSmAEMAoAxBK3FNDcd",
+      "connected_address": "bc1qw24cj4nryjfktjq8h0zlwvft7ps3p20uktqvjx",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "441874c0e6212379cf60c923bb53367eef5a8ac81b1a6ba34f10d15873511cdc",
+      "value": 7856,
+      "risk_assessment": {
+        "score": 100,
+        "level": "Critical",
+        "factors": [
+          {
+            "factor": "Mixing Service",
+            "weight": 80
+          },
+          {
+            "factor": "Multiple Inputs Outputs",
+            "weight": 30
+          }
+        ],
+        "category": "Possible Mixing",
+        "timestamp": "2025-05-19T12:32:47.884888"
+      }
+    },
+    {
+      "source_address": "3E8ociqZa9mZUSwGdSmAEMAoAxBK3FNDcd",
+      "connected_address": "bc1qhg09ld3jzwa763d0z992pzy7a3vhz84x0lp6ps",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "441874c0e6212379cf60c923bb53367eef5a8ac81b1a6ba34f10d15873511cdc",
+      "value": 7856,
+      "risk_assessment": {
+        "score": 100,
+        "level": "Critical",
+        "factors": [
+          {
+            "factor": "Mixing Service",
+            "weight": 80
+          },
+          {
+            "factor": "Multiple Inputs Outputs",
+            "weight": 30
+          }
+        ],
+        "category": "Possible Mixing",
+        "timestamp": "2025-05-19T12:32:47.885059"
+      }
+    },
+    {
+      "source_address": "3E8ociqZa9mZUSwGdSmAEMAoAxBK3FNDcd",
+      "connected_address": "bc1qnu6zyqpnamwytm59catng7lf8prwluf2s68lxe",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "441874c0e6212379cf60c923bb53367eef5a8ac81b1a6ba34f10d15873511cdc",
+      "value": 7856,
+      "risk_assessment": {
+        "score": 100,
+        "level": "Critical",
+        "factors": [
+          {
+            "factor": "Mixing Service",
+            "weight": 80
+          },
+          {
+            "factor": "Multiple Inputs Outputs",
+            "weight": 30
+          }
+        ],
+        "category": "Possible Mixing",
+        "timestamp": "2025-05-19T12:32:47.885249"
+      }
+    },
+    {
+      "source_address": "3E8ociqZa9mZUSwGdSmAEMAoAxBK3FNDcd",
+      "connected_address": "bc1qyefpgcdwd2fz8amd6snc54yn6e388v86puku0z",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "441874c0e6212379cf60c923bb53367eef5a8ac81b1a6ba34f10d15873511cdc",
+      "value": 7856,
+      "risk_assessment": {
+        "score": 100,
+        "level": "Critical",
+        "factors": [
+          {
+            "factor": "Mixing Service",
+            "weight": 80
+          },
+          {
+            "factor": "Multiple Inputs Outputs",
+            "weight": 30
+          }
+        ],
+        "category": "Possible Mixing",
+        "timestamp": "2025-05-19T12:32:47.885469"
+      }
+    },
+    {
+      "source_address": "3E8ociqZa9mZUSwGdSmAEMAoAxBK3FNDcd",
+      "connected_address": "bc1qmq0r93zlqjnf7ftxcw3uxlpustane53xpr2glm",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "441874c0e6212379cf60c923bb53367eef5a8ac81b1a6ba34f10d15873511cdc",
+      "value": 7856,
+      "risk_assessment": {
+        "score": 100,
+        "level": "Critical",
+        "factors": [
+          {
+            "factor": "Mixing Service",
+            "weight": 80
+          },
+          {
+            "factor": "Multiple Inputs Outputs",
+            "weight": 30
+          }
+        ],
+        "category": "Possible Mixing",
+        "timestamp": "2025-05-19T12:32:47.885687"
+      }
+    },
+    {
+      "source_address": "3E8ociqZa9mZUSwGdSmAEMAoAxBK3FNDcd",
+      "connected_address": "bc1qrt7tup6535h5p0cd2fpmdfagkwujag296zp0p0",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "441874c0e6212379cf60c923bb53367eef5a8ac81b1a6ba34f10d15873511cdc",
+      "value": 7856,
+      "risk_assessment": {
+        "score": 100,
+        "level": "Critical",
+        "factors": [
+          {
+            "factor": "Mixing Service",
+            "weight": 80
+          },
+          {
+            "factor": "Multiple Inputs Outputs",
+            "weight": 30
+          }
+        ],
+        "category": "Possible Mixing",
+        "timestamp": "2025-05-19T12:32:47.885901"
+      }
+    },
+    {
+      "source_address": "3E8ociqZa9mZUSwGdSmAEMAoAxBK3FNDcd",
+      "connected_address": "bc1qsxg4pylnneewu6xgp4rp5mldyayzrktfw6xpw5",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "441874c0e6212379cf60c923bb53367eef5a8ac81b1a6ba34f10d15873511cdc",
+      "value": 7856,
+      "risk_assessment": {
+        "score": 100,
+        "level": "Critical",
+        "factors": [
+          {
+            "factor": "Mixing Service",
+            "weight": 80
+          },
+          {
+            "factor": "Multiple Inputs Outputs",
+            "weight": 30
+          }
+        ],
+        "category": "Possible Mixing",
+        "timestamp": "2025-05-19T12:32:47.886140"
+      }
+    },
+    {
+      "source_address": "3E8ociqZa9mZUSwGdSmAEMAoAxBK3FNDcd",
+      "connected_address": "bc1qyfzyg07qd3enfld0sjka0jxzcwx0shysmnewa2",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "441874c0e6212379cf60c923bb53367eef5a8ac81b1a6ba34f10d15873511cdc",
+      "value": 7856,
+      "risk_assessment": {
+        "score": 100,
+        "level": "Critical",
+        "factors": [
+          {
+            "factor": "Mixing Service",
+            "weight": 80
+          },
+          {
+            "factor": "Multiple Inputs Outputs",
+            "weight": 30
+          }
+        ],
+        "category": "Possible Mixing",
+        "timestamp": "2025-05-19T12:32:47.886466"
+      }
+    },
+    {
+      "source_address": "3E8ociqZa9mZUSwGdSmAEMAoAxBK3FNDcd",
+      "connected_address": "bc1qjjw5elvq7rhdf04vd90tz0j09whyanwgssy55x",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "441874c0e6212379cf60c923bb53367eef5a8ac81b1a6ba34f10d15873511cdc",
+      "value": 7856,
+      "risk_assessment": {
+        "score": 100,
+        "level": "Critical",
+        "factors": [
+          {
+            "factor": "Mixing Service",
+            "weight": 80
+          },
+          {
+            "factor": "Multiple Inputs Outputs",
+            "weight": 30
+          }
+        ],
+        "category": "Possible Mixing",
+        "timestamp": "2025-05-19T12:32:47.886757"
+      }
+    },
+    {
+      "source_address": "3E8ociqZa9mZUSwGdSmAEMAoAxBK3FNDcd",
+      "connected_address": "bc1qtlk3knaq8nh02pjv7lsmw0yn022jtud2h8kvc2",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "441874c0e6212379cf60c923bb53367eef5a8ac81b1a6ba34f10d15873511cdc",
+      "value": 7856,
+      "risk_assessment": {
+        "score": 100,
+        "level": "Critical",
+        "factors": [
+          {
+            "factor": "Mixing Service",
+            "weight": 80
+          },
+          {
+            "factor": "Multiple Inputs Outputs",
+            "weight": 30
+          }
+        ],
+        "category": "Possible Mixing",
+        "timestamp": "2025-05-19T12:32:47.887036"
+      }
+    },
+    {
+      "source_address": "3E8ociqZa9mZUSwGdSmAEMAoAxBK3FNDcd",
+      "connected_address": "bc1q854fdlxrmg6q2qruhru5xhnpk3d4vfccfwpvy5",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "b4edc79a1142e41258f753c38a63d266eb695d9c6a3b4eaa768a446b5dc9d651",
+      "value": 5571,
+      "risk_assessment": {
+        "score": 0,
+        "level": "Low",
+        "factors": [],
+        "category": "Self Transfer",
+        "timestamp": "2025-05-19T12:32:47.887253"
+      }
+    },
+    {
+      "source_address": "3E8ociqZa9mZUSwGdSmAEMAoAxBK3FNDcd",
+      "connected_address": "bc1qh8d77sae5nduuy4q06ayhevm8249nd4h6u5psa",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "b4edc79a1142e41258f753c38a63d266eb695d9c6a3b4eaa768a446b5dc9d651",
+      "value": 5571,
+      "risk_assessment": {
+        "score": 0,
+        "level": "Low",
+        "factors": [],
+        "category": "Self Transfer",
+        "timestamp": "2025-05-19T12:32:47.887332"
+      }
+    },
+    {
+      "source_address": "3E8ociqZa9mZUSwGdSmAEMAoAxBK3FNDcd",
+      "connected_address": "bc1q3t7fw5m4ek32axgt3zakyneeeux83vzjfc95dx",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "344761691d7b43243c89c064a039db67f3cbcd663ef2652eef1b8b9d3039cb9c",
+      "value": 25000,
+      "risk_assessment": {
+        "score": 0,
+        "level": "Low",
+        "factors": [],
+        "category": "Self Transfer",
+        "timestamp": "2025-05-19T12:32:47.887712"
+      }
+    },
+    {
+      "source_address": "3E8ociqZa9mZUSwGdSmAEMAoAxBK3FNDcd",
+      "connected_address": "bc1qqr6fg53x9are7vrjs0327mxgrsy9kxd0slr6w8",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "71ffa39dfd340a0deddbe719b146ce05f40e4c1dc3b7ed5fa4ba3dbe122b3859",
+      "value": 8008,
+      "risk_assessment": {
+        "score": 65,
+        "level": "High",
+        "factors": [
+          {
+            "factor": "Chain Peel",
+            "weight": 65
+          }
+        ],
+        "category": "Chain Peeling",
+        "timestamp": "2025-05-19T12:32:47.887949"
+      }
+    },
+    {
+      "source_address": "3E8ociqZa9mZUSwGdSmAEMAoAxBK3FNDcd",
+      "connected_address": "bc1qr0nd9xuh4vgg8yzax83ks69yrh28mfzl29ckd0",
+      "connection_type": "sent_to",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "85c7bad494b525a3942b254e81391f7a0ac59ad9a77d8ebf285d6efa32988992",
+      "value": 1157295,
+      "risk_assessment": {
+        "score": 0,
+        "level": "Low",
+        "factors": [],
+        "category": "Complex Transaction",
+        "timestamp": "2025-05-19T12:32:47.888188"
+      }
+    },
+    {
+      "source_address": "3E8ociqZa9mZUSwGdSmAEMAoAxBK3FNDcd",
+      "connected_address": "bc1qqkyq2pascm5jg7hqtztuagpwamq8j2ru3aj6x8",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "e8279c23f6a937064618c0b3a2a21c3b0df03c6c23db9daadaa5db2c9d3fa61b",
+      "value": 41435,
+      "risk_assessment": {
+        "score": 100,
+        "level": "Critical",
+        "factors": [
+          {
+            "factor": "Mixing Service",
+            "weight": 80
+          },
+          {
+            "factor": "Multiple Inputs Outputs",
+            "weight": 30
+          }
+        ],
+        "category": "Possible Mixing",
+        "timestamp": "2025-05-19T12:32:47.888513"
+      }
+    },
+    {
+      "source_address": "3E8ociqZa9mZUSwGdSmAEMAoAxBK3FNDcd",
+      "connected_address": "bc1q7xzr8p8lvag5srmrkm7k0j4mnuuj7ry9wawxcq",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "e8279c23f6a937064618c0b3a2a21c3b0df03c6c23db9daadaa5db2c9d3fa61b",
+      "value": 41435,
+      "risk_assessment": {
+        "score": 100,
+        "level": "Critical",
+        "factors": [
+          {
+            "factor": "Mixing Service",
+            "weight": 80
+          },
+          {
+            "factor": "Multiple Inputs Outputs",
+            "weight": 30
+          }
+        ],
+        "category": "Possible Mixing",
+        "timestamp": "2025-05-19T12:32:47.888723"
+      }
+    },
+    {
+      "source_address": "3E8ociqZa9mZUSwGdSmAEMAoAxBK3FNDcd",
+      "connected_address": "bc1qqpva240yvgmh6x29qgur7gr3hzy876pftfk2n4",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "e8279c23f6a937064618c0b3a2a21c3b0df03c6c23db9daadaa5db2c9d3fa61b",
+      "value": 41435,
+      "risk_assessment": {
+        "score": 100,
+        "level": "Critical",
+        "factors": [
+          {
+            "factor": "Mixing Service",
+            "weight": 80
+          },
+          {
+            "factor": "Multiple Inputs Outputs",
+            "weight": 30
+          }
+        ],
+        "category": "Possible Mixing",
+        "timestamp": "2025-05-19T12:32:47.888978"
+      }
+    },
+    {
+      "source_address": "3E8ociqZa9mZUSwGdSmAEMAoAxBK3FNDcd",
+      "connected_address": "bc1qld3fcpdfj7gusxwjrpk9sh4c0emm3wd0kdkl83",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "e8279c23f6a937064618c0b3a2a21c3b0df03c6c23db9daadaa5db2c9d3fa61b",
+      "value": 41435,
+      "risk_assessment": {
+        "score": 100,
+        "level": "Critical",
+        "factors": [
+          {
+            "factor": "Mixing Service",
+            "weight": 80
+          },
+          {
+            "factor": "Multiple Inputs Outputs",
+            "weight": 30
+          }
+        ],
+        "category": "Possible Mixing",
+        "timestamp": "2025-05-19T12:32:47.889260"
+      }
+    },
+    {
+      "source_address": "3E8ociqZa9mZUSwGdSmAEMAoAxBK3FNDcd",
+      "connected_address": "bc1q97vz3kgjurx86jmjj72l3qc5vejf9lf9wpc37d",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "e8279c23f6a937064618c0b3a2a21c3b0df03c6c23db9daadaa5db2c9d3fa61b",
+      "value": 41435,
+      "risk_assessment": {
+        "score": 100,
+        "level": "Critical",
+        "factors": [
+          {
+            "factor": "Mixing Service",
+            "weight": 80
+          },
+          {
+            "factor": "Multiple Inputs Outputs",
+            "weight": 30
+          }
+        ],
+        "category": "Possible Mixing",
+        "timestamp": "2025-05-19T12:32:47.889481"
+      }
+    },
+    {
+      "source_address": "3E8ociqZa9mZUSwGdSmAEMAoAxBK3FNDcd",
+      "connected_address": "bc1qyj776x0q0yaemfeqtvfv0dlnunyzpvz8597m55",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "e8279c23f6a937064618c0b3a2a21c3b0df03c6c23db9daadaa5db2c9d3fa61b",
+      "value": 41435,
+      "risk_assessment": {
+        "score": 100,
+        "level": "Critical",
+        "factors": [
+          {
+            "factor": "Mixing Service",
+            "weight": 80
+          },
+          {
+            "factor": "Multiple Inputs Outputs",
+            "weight": 30
+          }
+        ],
+        "category": "Possible Mixing",
+        "timestamp": "2025-05-19T12:32:47.889637"
+      }
+    },
+    {
+      "source_address": "3E8ociqZa9mZUSwGdSmAEMAoAxBK3FNDcd",
+      "connected_address": "bc1qlvr2d32vhqa79uw4uwf2qze6vsx7jv5xpjuemj",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "e8279c23f6a937064618c0b3a2a21c3b0df03c6c23db9daadaa5db2c9d3fa61b",
+      "value": 41435,
+      "risk_assessment": {
+        "score": 100,
+        "level": "Critical",
+        "factors": [
+          {
+            "factor": "Mixing Service",
+            "weight": 80
+          },
+          {
+            "factor": "Multiple Inputs Outputs",
+            "weight": 30
+          }
+        ],
+        "category": "Possible Mixing",
+        "timestamp": "2025-05-19T12:32:47.889846"
+      }
+    },
+    {
+      "source_address": "3E8ociqZa9mZUSwGdSmAEMAoAxBK3FNDcd",
+      "connected_address": "bc1q23angj3u4w3q9sq3xvnmqzxug8k7ruz4a8c9wf",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "e8279c23f6a937064618c0b3a2a21c3b0df03c6c23db9daadaa5db2c9d3fa61b",
+      "value": 41435,
+      "risk_assessment": {
+        "score": 100,
+        "level": "Critical",
+        "factors": [
+          {
+            "factor": "Mixing Service",
+            "weight": 80
+          },
+          {
+            "factor": "Multiple Inputs Outputs",
+            "weight": 30
+          }
+        ],
+        "category": "Possible Mixing",
+        "timestamp": "2025-05-19T12:32:47.890042"
+      }
+    },
+    {
+      "source_address": "3E8ociqZa9mZUSwGdSmAEMAoAxBK3FNDcd",
+      "connected_address": "bc1qz7pg4vhwfv5dtv4tphamqu3trhra9new73uvfl",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "e8279c23f6a937064618c0b3a2a21c3b0df03c6c23db9daadaa5db2c9d3fa61b",
+      "value": 41435,
+      "risk_assessment": {
+        "score": 100,
+        "level": "Critical",
+        "factors": [
+          {
+            "factor": "Mixing Service",
+            "weight": 80
+          },
+          {
+            "factor": "Multiple Inputs Outputs",
+            "weight": 30
+          }
+        ],
+        "category": "Possible Mixing",
+        "timestamp": "2025-05-19T12:32:47.890397"
+      }
+    },
+    {
+      "source_address": "3E8ociqZa9mZUSwGdSmAEMAoAxBK3FNDcd",
+      "connected_address": "bc1q6lt94gum4ptqcgc3fsx3lcd0hta9wfk3nj0z5h",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "e8279c23f6a937064618c0b3a2a21c3b0df03c6c23db9daadaa5db2c9d3fa61b",
+      "value": 41435,
+      "risk_assessment": {
+        "score": 100,
+        "level": "Critical",
+        "factors": [
+          {
+            "factor": "Mixing Service",
+            "weight": 80
+          },
+          {
+            "factor": "Multiple Inputs Outputs",
+            "weight": 30
+          }
+        ],
+        "category": "Possible Mixing",
+        "timestamp": "2025-05-19T12:32:47.890645"
+      }
+    },
+    {
+      "source_address": "3E8ociqZa9mZUSwGdSmAEMAoAxBK3FNDcd",
+      "connected_address": "bc1qk4h0rkwsfc869shs6lcf4wp9sl0uv7458zw7uz",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "e8279c23f6a937064618c0b3a2a21c3b0df03c6c23db9daadaa5db2c9d3fa61b",
+      "value": 41435,
+      "risk_assessment": {
+        "score": 100,
+        "level": "Critical",
+        "factors": [
+          {
+            "factor": "Mixing Service",
+            "weight": 80
+          },
+          {
+            "factor": "Multiple Inputs Outputs",
+            "weight": 30
+          }
+        ],
+        "category": "Possible Mixing",
+        "timestamp": "2025-05-19T12:32:47.890804"
+      }
+    },
+    {
+      "source_address": "3E8ociqZa9mZUSwGdSmAEMAoAxBK3FNDcd",
+      "connected_address": "bc1qedk2kle23txq7tchckuz6w3043mxscxmc3lgv5",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "e8279c23f6a937064618c0b3a2a21c3b0df03c6c23db9daadaa5db2c9d3fa61b",
+      "value": 41435,
+      "risk_assessment": {
+        "score": 100,
+        "level": "Critical",
+        "factors": [
+          {
+            "factor": "Mixing Service",
+            "weight": 80
+          },
+          {
+            "factor": "Multiple Inputs Outputs",
+            "weight": 30
+          }
+        ],
+        "category": "Possible Mixing",
+        "timestamp": "2025-05-19T12:32:47.890995"
+      }
+    },
+    {
+      "source_address": "3E8ociqZa9mZUSwGdSmAEMAoAxBK3FNDcd",
+      "connected_address": "bc1qq05qfjp8d7xp0jj4ax466ssgszdl5h68042vhp",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "e8279c23f6a937064618c0b3a2a21c3b0df03c6c23db9daadaa5db2c9d3fa61b",
+      "value": 41435,
+      "risk_assessment": {
+        "score": 100,
+        "level": "Critical",
+        "factors": [
+          {
+            "factor": "Mixing Service",
+            "weight": 80
+          },
+          {
+            "factor": "Multiple Inputs Outputs",
+            "weight": 30
+          }
+        ],
+        "category": "Possible Mixing",
+        "timestamp": "2025-05-19T12:32:47.891226"
+      }
+    },
+    {
+      "source_address": "3E8ociqZa9mZUSwGdSmAEMAoAxBK3FNDcd",
+      "connected_address": "bc1q326vwrtgh3q6l63tuw38uzs6ctsdvlrg2qxd3f",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "e8279c23f6a937064618c0b3a2a21c3b0df03c6c23db9daadaa5db2c9d3fa61b",
+      "value": 41435,
+      "risk_assessment": {
+        "score": 100,
+        "level": "Critical",
+        "factors": [
+          {
+            "factor": "Mixing Service",
+            "weight": 80
+          },
+          {
+            "factor": "Multiple Inputs Outputs",
+            "weight": 30
+          }
+        ],
+        "category": "Possible Mixing",
+        "timestamp": "2025-05-19T12:32:47.891446"
+      }
+    },
+    {
+      "source_address": "3E8ociqZa9mZUSwGdSmAEMAoAxBK3FNDcd",
+      "connected_address": "bc1qm0lmgy37hltql3mjppsdwnha2vgkj3lfmj0d0u",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "e8279c23f6a937064618c0b3a2a21c3b0df03c6c23db9daadaa5db2c9d3fa61b",
+      "value": 41435,
+      "risk_assessment": {
+        "score": 100,
+        "level": "Critical",
+        "factors": [
+          {
+            "factor": "Mixing Service",
+            "weight": 80
+          },
+          {
+            "factor": "Multiple Inputs Outputs",
+            "weight": 30
+          }
+        ],
+        "category": "Possible Mixing",
+        "timestamp": "2025-05-19T12:32:47.891680"
+      }
+    },
+    {
+      "source_address": "3E8ociqZa9mZUSwGdSmAEMAoAxBK3FNDcd",
+      "connected_address": "bc1qskk34hat2qj7086h4dls2n3svnlr8xulgm7hah",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "e8279c23f6a937064618c0b3a2a21c3b0df03c6c23db9daadaa5db2c9d3fa61b",
+      "value": 41435,
+      "risk_assessment": {
+        "score": 100,
+        "level": "Critical",
+        "factors": [
+          {
+            "factor": "Mixing Service",
+            "weight": 80
+          },
+          {
+            "factor": "Multiple Inputs Outputs",
+            "weight": 30
+          }
+        ],
+        "category": "Possible Mixing",
+        "timestamp": "2025-05-19T12:32:47.891906"
+      }
+    },
+    {
+      "source_address": "3E8ociqZa9mZUSwGdSmAEMAoAxBK3FNDcd",
+      "connected_address": "bc1q9ej73k8rtgsdhfhagyehhcqn98xl386672x2k0",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "e8279c23f6a937064618c0b3a2a21c3b0df03c6c23db9daadaa5db2c9d3fa61b",
+      "value": 41435,
+      "risk_assessment": {
+        "score": 100,
+        "level": "Critical",
+        "factors": [
+          {
+            "factor": "Mixing Service",
+            "weight": 80
+          },
+          {
+            "factor": "Multiple Inputs Outputs",
+            "weight": 30
+          }
+        ],
+        "category": "Possible Mixing",
+        "timestamp": "2025-05-19T12:32:47.892125"
+      }
+    },
+    {
+      "source_address": "3E8ociqZa9mZUSwGdSmAEMAoAxBK3FNDcd",
+      "connected_address": "bc1qsmtm9k4trlmm5mv5hkw32szugxqxvp68feqq3q",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "e8279c23f6a937064618c0b3a2a21c3b0df03c6c23db9daadaa5db2c9d3fa61b",
+      "value": 41435,
+      "risk_assessment": {
+        "score": 100,
+        "level": "Critical",
+        "factors": [
+          {
+            "factor": "Mixing Service",
+            "weight": 80
+          },
+          {
+            "factor": "Multiple Inputs Outputs",
+            "weight": 30
+          }
+        ],
+        "category": "Possible Mixing",
+        "timestamp": "2025-05-19T12:32:47.892406"
+      }
+    },
+    {
+      "source_address": "3E8ociqZa9mZUSwGdSmAEMAoAxBK3FNDcd",
+      "connected_address": "bc1q0utk003aszkeg2zpk7yg9jh7ryu9a5q9fah55z",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "e8279c23f6a937064618c0b3a2a21c3b0df03c6c23db9daadaa5db2c9d3fa61b",
+      "value": 41435,
+      "risk_assessment": {
+        "score": 100,
+        "level": "Critical",
+        "factors": [
+          {
+            "factor": "Mixing Service",
+            "weight": 80
+          },
+          {
+            "factor": "Multiple Inputs Outputs",
+            "weight": 30
+          }
+        ],
+        "category": "Possible Mixing",
+        "timestamp": "2025-05-19T12:32:47.892632"
+      }
+    },
+    {
+      "source_address": "3E8ociqZa9mZUSwGdSmAEMAoAxBK3FNDcd",
+      "connected_address": "bc1q29ryjafmx8j0znlujkgwqthws594l9plw2fxp4",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "e8279c23f6a937064618c0b3a2a21c3b0df03c6c23db9daadaa5db2c9d3fa61b",
+      "value": 41435,
+      "risk_assessment": {
+        "score": 100,
+        "level": "Critical",
+        "factors": [
+          {
+            "factor": "Mixing Service",
+            "weight": 80
+          },
+          {
+            "factor": "Multiple Inputs Outputs",
+            "weight": 30
+          }
+        ],
+        "category": "Possible Mixing",
+        "timestamp": "2025-05-19T12:32:47.892865"
+      }
+    },
+    {
+      "source_address": "3E8ociqZa9mZUSwGdSmAEMAoAxBK3FNDcd",
+      "connected_address": "bc1q3y0uka4seh4mdg5w7tkcg8vvnwjwpp8eszezl8",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "e8279c23f6a937064618c0b3a2a21c3b0df03c6c23db9daadaa5db2c9d3fa61b",
+      "value": 41435,
+      "risk_assessment": {
+        "score": 100,
+        "level": "Critical",
+        "factors": [
+          {
+            "factor": "Mixing Service",
+            "weight": 80
+          },
+          {
+            "factor": "Multiple Inputs Outputs",
+            "weight": 30
+          }
+        ],
+        "category": "Possible Mixing",
+        "timestamp": "2025-05-19T12:32:47.893189"
+      }
+    },
+    {
+      "source_address": "3E8ociqZa9mZUSwGdSmAEMAoAxBK3FNDcd",
+      "connected_address": "bc1q06tjqgfkye5ah8stltd76xgl885w78p50ncsqg",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "e8279c23f6a937064618c0b3a2a21c3b0df03c6c23db9daadaa5db2c9d3fa61b",
+      "value": 41435,
+      "risk_assessment": {
+        "score": 100,
+        "level": "Critical",
+        "factors": [
+          {
+            "factor": "Mixing Service",
+            "weight": 80
+          },
+          {
+            "factor": "Multiple Inputs Outputs",
+            "weight": 30
+          }
+        ],
+        "category": "Possible Mixing",
+        "timestamp": "2025-05-19T12:32:47.893466"
+      }
+    },
+    {
+      "source_address": "3E8ociqZa9mZUSwGdSmAEMAoAxBK3FNDcd",
+      "connected_address": "bc1qatqklc0avt8m5zg7y682cjmvpqz8f627lludvn",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "e8279c23f6a937064618c0b3a2a21c3b0df03c6c23db9daadaa5db2c9d3fa61b",
+      "value": 41435,
+      "risk_assessment": {
+        "score": 100,
+        "level": "Critical",
+        "factors": [
+          {
+            "factor": "Mixing Service",
+            "weight": 80
+          },
+          {
+            "factor": "Multiple Inputs Outputs",
+            "weight": 30
+          }
+        ],
+        "category": "Possible Mixing",
+        "timestamp": "2025-05-19T12:32:47.893679"
+      }
+    },
+    {
+      "source_address": "3E8ociqZa9mZUSwGdSmAEMAoAxBK3FNDcd",
+      "connected_address": "bc1qlh90peh75t7kp728gjg9f8ywrdlphzqm7k4s4w",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "e8279c23f6a937064618c0b3a2a21c3b0df03c6c23db9daadaa5db2c9d3fa61b",
+      "value": 41435,
+      "risk_assessment": {
+        "score": 100,
+        "level": "Critical",
+        "factors": [
+          {
+            "factor": "Mixing Service",
+            "weight": 80
+          },
+          {
+            "factor": "Multiple Inputs Outputs",
+            "weight": 30
+          }
+        ],
+        "category": "Possible Mixing",
+        "timestamp": "2025-05-19T12:32:47.893910"
+      }
+    },
+    {
+      "source_address": "3E8ociqZa9mZUSwGdSmAEMAoAxBK3FNDcd",
+      "connected_address": "bc1qpy0p8tqs3qpsk8x2fvv2qlys8p4lp79flqw2ra",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "e8279c23f6a937064618c0b3a2a21c3b0df03c6c23db9daadaa5db2c9d3fa61b",
+      "value": 41435,
+      "risk_assessment": {
+        "score": 100,
+        "level": "Critical",
+        "factors": [
+          {
+            "factor": "Mixing Service",
+            "weight": 80
+          },
+          {
+            "factor": "Multiple Inputs Outputs",
+            "weight": 30
+          }
+        ],
+        "category": "Possible Mixing",
+        "timestamp": "2025-05-19T12:32:47.894064"
+      }
+    },
+    {
+      "source_address": "3E8ociqZa9mZUSwGdSmAEMAoAxBK3FNDcd",
+      "connected_address": "bc1qn6vsgqpr33pwvrrnsj8k7tjfuax4ffduggachq",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "e8279c23f6a937064618c0b3a2a21c3b0df03c6c23db9daadaa5db2c9d3fa61b",
+      "value": 41435,
+      "risk_assessment": {
+        "score": 100,
+        "level": "Critical",
+        "factors": [
+          {
+            "factor": "Mixing Service",
+            "weight": 80
+          },
+          {
+            "factor": "Multiple Inputs Outputs",
+            "weight": 30
+          }
+        ],
+        "category": "Possible Mixing",
+        "timestamp": "2025-05-19T12:32:47.894250"
+      }
+    },
+    {
+      "source_address": "3E8ociqZa9mZUSwGdSmAEMAoAxBK3FNDcd",
+      "connected_address": "bc1qaqh6sdnz8fzc859nessgfrt8rj8sfx9y8t5qjv",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "e8279c23f6a937064618c0b3a2a21c3b0df03c6c23db9daadaa5db2c9d3fa61b",
+      "value": 41435,
+      "risk_assessment": {
+        "score": 100,
+        "level": "Critical",
+        "factors": [
+          {
+            "factor": "Mixing Service",
+            "weight": 80
+          },
+          {
+            "factor": "Multiple Inputs Outputs",
+            "weight": 30
+          }
+        ],
+        "category": "Possible Mixing",
+        "timestamp": "2025-05-19T12:32:47.894417"
+      }
+    },
+    {
+      "source_address": "3E8ociqZa9mZUSwGdSmAEMAoAxBK3FNDcd",
+      "connected_address": "bc1qc0s9e86u60pzngdwssfxmuudm5rsq9uk7u62k9",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "e8279c23f6a937064618c0b3a2a21c3b0df03c6c23db9daadaa5db2c9d3fa61b",
+      "value": 41435,
+      "risk_assessment": {
+        "score": 100,
+        "level": "Critical",
+        "factors": [
+          {
+            "factor": "Mixing Service",
+            "weight": 80
+          },
+          {
+            "factor": "Multiple Inputs Outputs",
+            "weight": 30
+          }
+        ],
+        "category": "Possible Mixing",
+        "timestamp": "2025-05-19T12:32:47.894563"
+      }
+    },
+    {
+      "source_address": "3E8ociqZa9mZUSwGdSmAEMAoAxBK3FNDcd",
+      "connected_address": "bc1qrrfh8p9wwhwt5uzkw8t4063n5mdf5zfd4vev60",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "e8279c23f6a937064618c0b3a2a21c3b0df03c6c23db9daadaa5db2c9d3fa61b",
+      "value": 41435,
+      "risk_assessment": {
+        "score": 100,
+        "level": "Critical",
+        "factors": [
+          {
+            "factor": "Mixing Service",
+            "weight": 80
+          },
+          {
+            "factor": "Multiple Inputs Outputs",
+            "weight": 30
+          }
+        ],
+        "category": "Possible Mixing",
+        "timestamp": "2025-05-19T12:32:47.894684"
+      }
+    },
+    {
+      "source_address": "3E8ociqZa9mZUSwGdSmAEMAoAxBK3FNDcd",
+      "connected_address": "bc1qy0hfwywv68898jvuds02e867p2suqmhtqvep5t",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "e8279c23f6a937064618c0b3a2a21c3b0df03c6c23db9daadaa5db2c9d3fa61b",
+      "value": 41435,
+      "risk_assessment": {
+        "score": 100,
+        "level": "Critical",
+        "factors": [
+          {
+            "factor": "Mixing Service",
+            "weight": 80
+          },
+          {
+            "factor": "Multiple Inputs Outputs",
+            "weight": 30
+          }
+        ],
+        "category": "Possible Mixing",
+        "timestamp": "2025-05-19T12:32:47.894827"
+      }
+    },
+    {
+      "source_address": "3E8ociqZa9mZUSwGdSmAEMAoAxBK3FNDcd",
+      "connected_address": "bc1qgk4a7l6smh45z32798dpypafesj6d9rh5w7c4a",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "e8279c23f6a937064618c0b3a2a21c3b0df03c6c23db9daadaa5db2c9d3fa61b",
+      "value": 41435,
+      "risk_assessment": {
+        "score": 100,
+        "level": "Critical",
+        "factors": [
+          {
+            "factor": "Mixing Service",
+            "weight": 80
+          },
+          {
+            "factor": "Multiple Inputs Outputs",
+            "weight": 30
+          }
+        ],
+        "category": "Possible Mixing",
+        "timestamp": "2025-05-19T12:32:47.894977"
+      }
+    },
+    {
+      "source_address": "3E8ociqZa9mZUSwGdSmAEMAoAxBK3FNDcd",
+      "connected_address": "bc1q5wwujdsdh0u5cqejm3dwmqv3jzmuncwjfc88d6",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "e8279c23f6a937064618c0b3a2a21c3b0df03c6c23db9daadaa5db2c9d3fa61b",
+      "value": 41435,
+      "risk_assessment": {
+        "score": 100,
+        "level": "Critical",
+        "factors": [
+          {
+            "factor": "Mixing Service",
+            "weight": 80
+          },
+          {
+            "factor": "Multiple Inputs Outputs",
+            "weight": 30
+          }
+        ],
+        "category": "Possible Mixing",
+        "timestamp": "2025-05-19T12:32:47.895188"
+      }
+    },
+    {
+      "source_address": "3E8ociqZa9mZUSwGdSmAEMAoAxBK3FNDcd",
+      "connected_address": "bc1q9vzk4rt88af4eevueehw9nauyjz9cgtkmlvlnf",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "e8279c23f6a937064618c0b3a2a21c3b0df03c6c23db9daadaa5db2c9d3fa61b",
+      "value": 41435,
+      "risk_assessment": {
+        "score": 100,
+        "level": "Critical",
+        "factors": [
+          {
+            "factor": "Mixing Service",
+            "weight": 80
+          },
+          {
+            "factor": "Multiple Inputs Outputs",
+            "weight": 30
+          }
+        ],
+        "category": "Possible Mixing",
+        "timestamp": "2025-05-19T12:32:47.895406"
+      }
+    },
+    {
+      "source_address": "3E8ociqZa9mZUSwGdSmAEMAoAxBK3FNDcd",
+      "connected_address": "bc1qzhcaj3vya40hlwtghqaf0pucz8v8j3mqrj0url",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "e8279c23f6a937064618c0b3a2a21c3b0df03c6c23db9daadaa5db2c9d3fa61b",
+      "value": 41435,
+      "risk_assessment": {
+        "score": 100,
+        "level": "Critical",
+        "factors": [
+          {
+            "factor": "Mixing Service",
+            "weight": 80
+          },
+          {
+            "factor": "Multiple Inputs Outputs",
+            "weight": 30
+          }
+        ],
+        "category": "Possible Mixing",
+        "timestamp": "2025-05-19T12:32:47.895622"
+      }
+    },
+    {
+      "source_address": "3E8ociqZa9mZUSwGdSmAEMAoAxBK3FNDcd",
+      "connected_address": "bc1qlz53ltgwtjwgeng3uwrt9de05ddyd88zjmcudw",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "e8279c23f6a937064618c0b3a2a21c3b0df03c6c23db9daadaa5db2c9d3fa61b",
+      "value": 41435,
+      "risk_assessment": {
+        "score": 100,
+        "level": "Critical",
+        "factors": [
+          {
+            "factor": "Mixing Service",
+            "weight": 80
+          },
+          {
+            "factor": "Multiple Inputs Outputs",
+            "weight": 30
+          }
+        ],
+        "category": "Possible Mixing",
+        "timestamp": "2025-05-19T12:32:47.895760"
+      }
+    },
+    {
+      "source_address": "3E8ociqZa9mZUSwGdSmAEMAoAxBK3FNDcd",
+      "connected_address": "bc1qz600cgn04yz0fvcx3tf9gzq3xuz3lnes3gl0s2",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "e8279c23f6a937064618c0b3a2a21c3b0df03c6c23db9daadaa5db2c9d3fa61b",
+      "value": 41435,
+      "risk_assessment": {
+        "score": 100,
+        "level": "Critical",
+        "factors": [
+          {
+            "factor": "Mixing Service",
+            "weight": 80
+          },
+          {
+            "factor": "Multiple Inputs Outputs",
+            "weight": 30
+          }
+        ],
+        "category": "Possible Mixing",
+        "timestamp": "2025-05-19T12:32:47.895904"
+      }
+    },
+    {
+      "source_address": "3E8ociqZa9mZUSwGdSmAEMAoAxBK3FNDcd",
+      "connected_address": "bc1qtrxkpcrj6w4lzjqvdykvm4t88ffxvhsm3e2d4r",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "e8279c23f6a937064618c0b3a2a21c3b0df03c6c23db9daadaa5db2c9d3fa61b",
+      "value": 41435,
+      "risk_assessment": {
+        "score": 100,
+        "level": "Critical",
+        "factors": [
+          {
+            "factor": "Mixing Service",
+            "weight": 80
+          },
+          {
+            "factor": "Multiple Inputs Outputs",
+            "weight": 30
+          }
+        ],
+        "category": "Possible Mixing",
+        "timestamp": "2025-05-19T12:32:47.896051"
+      }
+    },
+    {
+      "source_address": "3E8ociqZa9mZUSwGdSmAEMAoAxBK3FNDcd",
+      "connected_address": "bc1q3dlqz45uyy7jjxeka07ntaqc786wc3x6wsltw8",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "e8279c23f6a937064618c0b3a2a21c3b0df03c6c23db9daadaa5db2c9d3fa61b",
+      "value": 41435,
+      "risk_assessment": {
+        "score": 100,
+        "level": "Critical",
+        "factors": [
+          {
+            "factor": "Mixing Service",
+            "weight": 80
+          },
+          {
+            "factor": "Multiple Inputs Outputs",
+            "weight": 30
+          }
+        ],
+        "category": "Possible Mixing",
+        "timestamp": "2025-05-19T12:32:47.896225"
+      }
+    },
+    {
+      "source_address": "3E8ociqZa9mZUSwGdSmAEMAoAxBK3FNDcd",
+      "connected_address": "bc1q4eqaagapvqxeesce5hj6nc6kngljlm7n2eaq7a",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "e8279c23f6a937064618c0b3a2a21c3b0df03c6c23db9daadaa5db2c9d3fa61b",
+      "value": 41435,
+      "risk_assessment": {
+        "score": 100,
+        "level": "Critical",
+        "factors": [
+          {
+            "factor": "Mixing Service",
+            "weight": 80
+          },
+          {
+            "factor": "Multiple Inputs Outputs",
+            "weight": 30
+          }
+        ],
+        "category": "Possible Mixing",
+        "timestamp": "2025-05-19T12:32:47.896475"
+      }
+    },
+    {
+      "source_address": "3E8ociqZa9mZUSwGdSmAEMAoAxBK3FNDcd",
+      "connected_address": "bc1q4x3pl3e5lu4zk9rpj6394jywq7afcmu24rggwa",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "24d5988f6ec6e21d9aef32cf621ecde90caad378c4134128d56479ed4623013e",
+      "value": 5306,
+      "risk_assessment": {
+        "score": 65,
+        "level": "High",
+        "factors": [
+          {
+            "factor": "Chain Peel",
+            "weight": 65
+          }
+        ],
+        "category": "Chain Peeling",
+        "timestamp": "2025-05-19T12:32:47.896743"
+      }
+    },
+    {
+      "source_address": "3E8ociqZa9mZUSwGdSmAEMAoAxBK3FNDcd",
+      "connected_address": "bc1qayqu6muay0e5ufntdd4e7ncylmz027dvgt2jeh",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "0cf09fe0e6a7fb9f4c6b2031773bcbb6b7c19d910a1396e6a7379e5aa9cee3fd",
+      "value": 18358,
+      "risk_assessment": {
+        "score": 0,
+        "level": "Low",
+        "factors": [],
+        "category": "Self Transfer",
+        "timestamp": "2025-05-19T12:32:47.897179"
+      }
+    },
+    {
+      "source_address": "3E8ociqZa9mZUSwGdSmAEMAoAxBK3FNDcd",
+      "connected_address": "bc1qm34lsc65zpw79lxes69zkqmk6ee3ewf0j77s3h",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "9f85b778bd647589ac16dbfaa6896b3da108ca7b7cc5fac320e64d4b2ea66357",
+      "value": 176347,
+      "risk_assessment": {
+        "score": 0,
+        "level": "Low",
+        "factors": [],
+        "category": "Self Transfer",
+        "timestamp": "2025-05-19T12:32:47.897414"
+      }
+    },
+    {
+      "source_address": "3E8ociqZa9mZUSwGdSmAEMAoAxBK3FNDcd",
+      "connected_address": "1K4QZTn1L1EesNdKHdHNbM4okPF11QCz3G",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "3d06de5332a8b792f21f6ead5d20621e6402bfcf9751ae2e050b86f05c8eb328",
+      "value": 14442,
+      "risk_assessment": {
+        "score": 0,
+        "level": "Low",
+        "factors": [],
+        "category": "Self Transfer",
+        "timestamp": "2025-05-19T12:32:47.897641"
+      }
+    },
+    {
+      "source_address": "3E8ociqZa9mZUSwGdSmAEMAoAxBK3FNDcd",
+      "connected_address": "18AvGywMzsKNZxs2TPu1RopKRuVfMSNFM5",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "3d06de5332a8b792f21f6ead5d20621e6402bfcf9751ae2e050b86f05c8eb328",
+      "value": 14442,
+      "risk_assessment": {
+        "score": 0,
+        "level": "Low",
+        "factors": [],
+        "category": "Self Transfer",
+        "timestamp": "2025-05-19T12:32:47.897743"
+      }
+    },
+    {
+      "source_address": "3E8ociqZa9mZUSwGdSmAEMAoAxBK3FNDcd",
+      "connected_address": "32vGajNwMbTCYagmxKsAm8MqG6WoJCJ8v7",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "ae9953c5d8a54ad1cbe846b27d8275df00f146ccd850afa75dbf5418e15a9718",
+      "value": 15217,
+      "risk_assessment": {
+        "score": 0,
+        "level": "Low",
+        "factors": [],
+        "category": "Self Transfer",
+        "timestamp": "2025-05-19T12:32:47.897960"
+      }
+    },
+    {
+      "source_address": "3E8ociqZa9mZUSwGdSmAEMAoAxBK3FNDcd",
+      "connected_address": "3Pe6pAbn5tLJR5iuLpEYJHYUsdXNP4Zry3",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "ae9953c5d8a54ad1cbe846b27d8275df00f146ccd850afa75dbf5418e15a9718",
+      "value": 15217,
+      "risk_assessment": {
+        "score": 0,
+        "level": "Low",
+        "factors": [],
+        "category": "Self Transfer",
+        "timestamp": "2025-05-19T12:32:47.898058"
+      }
+    },
+    {
+      "source_address": "3E8ociqZa9mZUSwGdSmAEMAoAxBK3FNDcd",
+      "connected_address": "3NSa5aSknNkZzw4M8iiXRcW1sjid8quXdt",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "a159ecb4ee7dc97f01ab82ee20e27c64a5214232dfdbeee30aeae19aac8c5f1b",
+      "value": 260038,
+      "risk_assessment": {
+        "score": 0,
+        "level": "Low",
+        "factors": [],
+        "category": "Self Transfer",
+        "timestamp": "2025-05-19T12:32:47.898380"
+      }
+    },
+    {
+      "source_address": "3E8ociqZa9mZUSwGdSmAEMAoAxBK3FNDcd",
+      "connected_address": "bc1qehvn2q8h4xdpjvw3u6rpp40gkpjm62p35jv6y3",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "34e9ba13b74e5fc164bf810cceb14f44ef8eb49a5050154d16cadf3758d8ce3c",
+      "value": 142610,
+      "risk_assessment": {
+        "score": 100,
+        "level": "Critical",
+        "factors": [
+          {
+            "factor": "Mixing Service",
+            "weight": 80
+          },
+          {
+            "factor": "Multiple Inputs Outputs",
+            "weight": 30
+          }
+        ],
+        "category": "Possible Mixing",
+        "timestamp": "2025-05-19T12:32:47.898686"
+      }
+    },
+    {
+      "source_address": "3E8ociqZa9mZUSwGdSmAEMAoAxBK3FNDcd",
+      "connected_address": "bc1q6nm7vkyp6vjl6qdsxhkl5rswwhqza2t9ed0r44",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "34e9ba13b74e5fc164bf810cceb14f44ef8eb49a5050154d16cadf3758d8ce3c",
+      "value": 142610,
+      "risk_assessment": {
+        "score": 100,
+        "level": "Critical",
+        "factors": [
+          {
+            "factor": "Mixing Service",
+            "weight": 80
+          },
+          {
+            "factor": "Multiple Inputs Outputs",
+            "weight": 30
+          }
+        ],
+        "category": "Possible Mixing",
+        "timestamp": "2025-05-19T12:32:47.898855"
+      }
+    },
+    {
+      "source_address": "3E8ociqZa9mZUSwGdSmAEMAoAxBK3FNDcd",
+      "connected_address": "bc1qd4ssjmy249vpkgqz3lms64zp66p6pgxx8a7u9z",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "34e9ba13b74e5fc164bf810cceb14f44ef8eb49a5050154d16cadf3758d8ce3c",
+      "value": 142610,
+      "risk_assessment": {
+        "score": 100,
+        "level": "Critical",
+        "factors": [
+          {
+            "factor": "Mixing Service",
+            "weight": 80
+          },
+          {
+            "factor": "Multiple Inputs Outputs",
+            "weight": 30
+          }
+        ],
+        "category": "Possible Mixing",
+        "timestamp": "2025-05-19T12:32:47.899014"
+      }
+    },
+    {
+      "source_address": "3E8ociqZa9mZUSwGdSmAEMAoAxBK3FNDcd",
+      "connected_address": "bc1q9daft2z9u4jnm7upzvqt2zlau87sethx3eer5z",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "34e9ba13b74e5fc164bf810cceb14f44ef8eb49a5050154d16cadf3758d8ce3c",
+      "value": 142610,
+      "risk_assessment": {
+        "score": 100,
+        "level": "Critical",
+        "factors": [
+          {
+            "factor": "Mixing Service",
+            "weight": 80
+          },
+          {
+            "factor": "Multiple Inputs Outputs",
+            "weight": 30
+          }
+        ],
+        "category": "Possible Mixing",
+        "timestamp": "2025-05-19T12:32:47.899243"
+      }
+    },
+    {
+      "source_address": "3E8ociqZa9mZUSwGdSmAEMAoAxBK3FNDcd",
+      "connected_address": "bc1qpg2csf8w88vy9p6kccwfk227nadtp4hhce0mwx",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "34e9ba13b74e5fc164bf810cceb14f44ef8eb49a5050154d16cadf3758d8ce3c",
+      "value": 142610,
+      "risk_assessment": {
+        "score": 100,
+        "level": "Critical",
+        "factors": [
+          {
+            "factor": "Mixing Service",
+            "weight": 80
+          },
+          {
+            "factor": "Multiple Inputs Outputs",
+            "weight": 30
+          }
+        ],
+        "category": "Possible Mixing",
+        "timestamp": "2025-05-19T12:32:47.899458"
+      }
+    },
+    {
+      "source_address": "3E8ociqZa9mZUSwGdSmAEMAoAxBK3FNDcd",
+      "connected_address": "bc1q6069tzvagtsu54jzhyvmwprjly3m54v8398egx",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "34e9ba13b74e5fc164bf810cceb14f44ef8eb49a5050154d16cadf3758d8ce3c",
+      "value": 142610,
+      "risk_assessment": {
+        "score": 100,
+        "level": "Critical",
+        "factors": [
+          {
+            "factor": "Mixing Service",
+            "weight": 80
+          },
+          {
+            "factor": "Multiple Inputs Outputs",
+            "weight": 30
+          }
+        ],
+        "category": "Possible Mixing",
+        "timestamp": "2025-05-19T12:32:47.899636"
+      }
+    },
+    {
+      "source_address": "3E8ociqZa9mZUSwGdSmAEMAoAxBK3FNDcd",
+      "connected_address": "bc1q3nsjex7ndta0rvrwykepyuu9rxm7gv3m6d330e",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "34e9ba13b74e5fc164bf810cceb14f44ef8eb49a5050154d16cadf3758d8ce3c",
+      "value": 142610,
+      "risk_assessment": {
+        "score": 100,
+        "level": "Critical",
+        "factors": [
+          {
+            "factor": "Mixing Service",
+            "weight": 80
+          },
+          {
+            "factor": "Multiple Inputs Outputs",
+            "weight": 30
+          }
+        ],
+        "category": "Possible Mixing",
+        "timestamp": "2025-05-19T12:32:47.899811"
+      }
+    },
+    {
+      "source_address": "3E8ociqZa9mZUSwGdSmAEMAoAxBK3FNDcd",
+      "connected_address": "bc1qcpursrst2kvc6xrgqwgn490tnrdgryg3s8jtfc",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "b4afa74d6ba862473281563314b79c4e7be46437796e486c42fb6f677c7c941f",
+      "value": 7277,
+      "risk_assessment": {
+        "score": 0,
+        "level": "Low",
+        "factors": [],
+        "category": "Self Transfer",
+        "timestamp": "2025-05-19T12:32:47.900039"
+      }
+    },
+    {
+      "source_address": "3E8ociqZa9mZUSwGdSmAEMAoAxBK3FNDcd",
+      "connected_address": "bc1q325urfk3ld036k4jelw6pr8ea0k7qn0kadtwgw",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "b60e4a9a5926629f3e71896d6347d3f348ded0dd3f221080efbe74d860a561c3",
+      "value": 55000,
+      "risk_assessment": {
+        "score": 30,
+        "level": "Medium",
+        "factors": [
+          {
+            "factor": "Multiple Inputs Outputs",
+            "weight": 30
+          }
+        ],
+        "category": "Self Transfer",
+        "timestamp": "2025-05-19T12:32:47.900516"
+      }
+    },
+    {
+      "source_address": "3E8ociqZa9mZUSwGdSmAEMAoAxBK3FNDcd",
+      "connected_address": "bc1qpsv9uvhuxy85rkkgwuc4q3x0t7kzjflpquh578",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "b60e4a9a5926629f3e71896d6347d3f348ded0dd3f221080efbe74d860a561c3",
+      "value": 55000,
+      "risk_assessment": {
+        "score": 30,
+        "level": "Medium",
+        "factors": [
+          {
+            "factor": "Multiple Inputs Outputs",
+            "weight": 30
+          }
+        ],
+        "category": "Self Transfer",
+        "timestamp": "2025-05-19T12:32:47.900731"
+      }
+    },
+    {
+      "source_address": "3E8ociqZa9mZUSwGdSmAEMAoAxBK3FNDcd",
+      "connected_address": "bc1ql5c9r4qwngq0lg47su3ltdq2hrpsgw9vwvtflm",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "b60e4a9a5926629f3e71896d6347d3f348ded0dd3f221080efbe74d860a561c3",
+      "value": 55000,
+      "risk_assessment": {
+        "score": 30,
+        "level": "Medium",
+        "factors": [
+          {
+            "factor": "Multiple Inputs Outputs",
+            "weight": 30
+          }
+        ],
+        "category": "Self Transfer",
+        "timestamp": "2025-05-19T12:32:47.900947"
+      }
+    },
+    {
+      "source_address": "3E8ociqZa9mZUSwGdSmAEMAoAxBK3FNDcd",
+      "connected_address": "bc1q4u9w3pm5yr9e570wuk46zs9gjlnn6na9lnwnr0",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "b60e4a9a5926629f3e71896d6347d3f348ded0dd3f221080efbe74d860a561c3",
+      "value": 55000,
+      "risk_assessment": {
+        "score": 30,
+        "level": "Medium",
+        "factors": [
+          {
+            "factor": "Multiple Inputs Outputs",
+            "weight": 30
+          }
+        ],
+        "category": "Self Transfer",
+        "timestamp": "2025-05-19T12:32:47.901217"
+      }
+    },
+    {
+      "source_address": "bc1qw508d6qejxtdg4y5r3zarvary0c5xw7kv8f3t4",
+      "connected_address": "bc1q8742wwqvxhfaxpahe23a9ggr3lflutq9fds4fr",
+      "connection_type": "sent_to",
+      "transaction_count": 2,
+      "first_seen": "",
+      "transaction_hashes": "96b2ad2ed15a60c051f2155f9d57882710b54d5802114b0e145f735522a4139a,4f23bd1d9a40bb7de36d8c5ad14920b4af795d922c08258fcd89451b2f3869ba",
+      "value": 357,
+      "risk_assessment": {
+        "score": 0,
+        "level": "Low",
+        "factors": [],
+        "category": "Simple Transfer",
+        "timestamp": "2025-05-19T12:32:57.920035"
+      }
+    },
+    {
+      "source_address": "bc1qw508d6qejxtdg4y5r3zarvary0c5xw7kv8f3t4",
+      "connected_address": "bc1qm8t668kddlam3hcx2kmyshmk2z2x8kg0qxcr89",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "0e14d763af577d6de7649f98b845d50580b4825aa517216f1900045581805ccf",
+      "value": 1000,
+      "risk_assessment": {
+        "score": 0,
+        "level": "Low",
+        "factors": [],
+        "category": "Self Transfer",
+        "timestamp": "2025-05-19T12:32:57.920251"
+      }
+    },
+    {
+      "source_address": "bc1qw508d6qejxtdg4y5r3zarvary0c5xw7kv8f3t4",
+      "connected_address": "bc1qu6zm30gnxpk2pck7ypa56rzpyjvnjxadeyw6wt",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "3bd307b43b0433faf0bc095ffc8bcf5f165d38ae1091b8cda965ee7e271a5fb2",
+      "value": 2000,
+      "risk_assessment": {
+        "score": 65,
+        "level": "High",
+        "factors": [
+          {
+            "factor": "Chain Peel",
+            "weight": 65
+          }
+        ],
+        "category": "Chain Peeling",
+        "timestamp": "2025-05-19T12:32:57.920398"
+      }
+    },
+    {
+      "source_address": "bc1qw508d6qejxtdg4y5r3zarvary0c5xw7kv8f3t4",
+      "connected_address": "bc1q7e0k68svak56hyhcwkdet9fnlf3605vfn0e99n",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "5d42e1c971a631dc7449794a3ff0d69ed0f7e213d577fa55c78ec9a218f4f7b2",
+      "value": 1000,
+      "risk_assessment": {
+        "score": 65,
+        "level": "High",
+        "factors": [
+          {
+            "factor": "Chain Peel",
+            "weight": 65
+          }
+        ],
+        "category": "Chain Peeling",
+        "timestamp": "2025-05-19T12:32:57.920599"
+      }
+    },
+    {
+      "source_address": "bc1qw508d6qejxtdg4y5r3zarvary0c5xw7kv8f3t4",
+      "connected_address": "bc1qge5jav8ha7gl4s2njgfc68lu4aafpdm52z66uy",
+      "connection_type": "sent_to",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "f05722ad23c9c71e42174b5a33c3fee902ba75594f29ec77c5b9f0797aa96c56",
+      "value": 320,
+      "risk_assessment": {
+        "score": 0,
+        "level": "Low",
+        "factors": [],
+        "category": "Complex Transaction",
+        "timestamp": "2025-05-19T12:32:57.920790"
+      }
+    },
+    {
+      "source_address": "bc1qw508d6qejxtdg4y5r3zarvary0c5xw7kv8f3t4",
+      "connected_address": "bc1qq6hag67dl53wl99vzg42z8eyzfz2xlkvxechjp",
+      "connection_type": "co_spending",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "f05722ad23c9c71e42174b5a33c3fee902ba75594f29ec77c5b9f0797aa96c56",
+      "risk_assessment": {
+        "score": 0,
+        "level": "Low",
+        "factors": [],
+        "category": "Complex Transaction",
+        "timestamp": "2025-05-19T12:32:57.920856"
+      }
+    },
+    {
+      "source_address": "bc1qw508d6qejxtdg4y5r3zarvary0c5xw7kv8f3t4",
+      "connected_address": "1JtK9CQw1syfWj1WtFMWomrYdV3W2tWBF9",
+      "connection_type": "co_spending",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "f05722ad23c9c71e42174b5a33c3fee902ba75594f29ec77c5b9f0797aa96c56",
+      "risk_assessment": {
+        "score": 0,
+        "level": "Low",
+        "factors": [],
+        "category": "Complex Transaction",
+        "timestamp": "2025-05-19T12:32:57.920911"
+      }
+    },
+    {
+      "source_address": "bc1qw508d6qejxtdg4y5r3zarvary0c5xw7kv8f3t4",
+      "connected_address": "1CUNEBjYrCn2y1SdiUMohaKUi4wpP326Lb",
+      "connection_type": "co_spending",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "f05722ad23c9c71e42174b5a33c3fee902ba75594f29ec77c5b9f0797aa96c56",
+      "risk_assessment": {
+        "score": 0,
+        "level": "Low",
+        "factors": [],
+        "category": "Complex Transaction",
+        "timestamp": "2025-05-19T12:32:57.920977"
+      }
+    },
+    {
+      "source_address": "bc1qw508d6qejxtdg4y5r3zarvary0c5xw7kv8f3t4",
+      "connected_address": "3FWHHE3RVgyv5vYmMrcoRdA25uugWvQbso",
+      "connection_type": "co_spending",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "f05722ad23c9c71e42174b5a33c3fee902ba75594f29ec77c5b9f0797aa96c56",
+      "risk_assessment": {
+        "score": 0,
+        "level": "Low",
+        "factors": [],
+        "category": "Complex Transaction",
+        "timestamp": "2025-05-19T12:32:57.921046"
+      }
+    },
+    {
+      "source_address": "bc1qw508d6qejxtdg4y5r3zarvary0c5xw7kv8f3t4",
+      "connected_address": "bc1q8742wwqvxhfaxpahe23a9ggr3lflutq9fds4fr",
+      "connection_type": "co_spending",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "f05722ad23c9c71e42174b5a33c3fee902ba75594f29ec77c5b9f0797aa96c56",
+      "risk_assessment": {
+        "score": 0,
+        "level": "Low",
+        "factors": [],
+        "category": "Complex Transaction",
+        "timestamp": "2025-05-19T12:32:57.921104"
+      }
+    },
+    {
+      "source_address": "bc1qw508d6qejxtdg4y5r3zarvary0c5xw7kv8f3t4",
+      "connected_address": "3JvL6Ymt8MVWiCNHC7oWU6nLeHNJKLZGLN",
+      "connection_type": "co_spending",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "f05722ad23c9c71e42174b5a33c3fee902ba75594f29ec77c5b9f0797aa96c56",
+      "risk_assessment": {
+        "score": 0,
+        "level": "Low",
+        "factors": [],
+        "category": "Complex Transaction",
+        "timestamp": "2025-05-19T12:32:57.921179"
+      }
+    },
+    {
+      "source_address": "bc1qw508d6qejxtdg4y5r3zarvary0c5xw7kv8f3t4",
+      "connected_address": "3J98t1WpEZ73CNmQviecrnyiWrnqRhWNLy",
+      "connection_type": "co_spending",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "f05722ad23c9c71e42174b5a33c3fee902ba75594f29ec77c5b9f0797aa96c56",
+      "risk_assessment": {
+        "score": 0,
+        "level": "Low",
+        "factors": [],
+        "category": "Complex Transaction",
+        "timestamp": "2025-05-19T12:32:57.921254"
+      }
+    },
+    {
+      "source_address": "bc1qw508d6qejxtdg4y5r3zarvary0c5xw7kv8f3t4",
+      "connected_address": "bc1qq6hag67dl53wl99vzg42z8eyzfz2xlkvxechjp",
+      "connection_type": "shared_wallet_control",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "f05722ad23c9c71e42174b5a33c3fee902ba75594f29ec77c5b9f0797aa96c56",
+      "risk_assessment": {
+        "score": 0,
+        "level": "Low",
+        "factors": [],
+        "category": "Complex Transaction",
+        "timestamp": "2025-05-19T12:32:57.921314"
+      }
+    },
+    {
+      "source_address": "bc1qw508d6qejxtdg4y5r3zarvary0c5xw7kv8f3t4",
+      "connected_address": "1JtK9CQw1syfWj1WtFMWomrYdV3W2tWBF9",
+      "connection_type": "shared_wallet_control",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "f05722ad23c9c71e42174b5a33c3fee902ba75594f29ec77c5b9f0797aa96c56",
+      "risk_assessment": {
+        "score": 0,
+        "level": "Low",
+        "factors": [],
+        "category": "Complex Transaction",
+        "timestamp": "2025-05-19T12:32:57.921389"
+      }
+    },
+    {
+      "source_address": "bc1qw508d6qejxtdg4y5r3zarvary0c5xw7kv8f3t4",
+      "connected_address": "1CUNEBjYrCn2y1SdiUMohaKUi4wpP326Lb",
+      "connection_type": "shared_wallet_control",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "f05722ad23c9c71e42174b5a33c3fee902ba75594f29ec77c5b9f0797aa96c56",
+      "risk_assessment": {
+        "score": 0,
+        "level": "Low",
+        "factors": [],
+        "category": "Complex Transaction",
+        "timestamp": "2025-05-19T12:32:57.921468"
+      }
+    },
+    {
+      "source_address": "bc1qw508d6qejxtdg4y5r3zarvary0c5xw7kv8f3t4",
+      "connected_address": "3FWHHE3RVgyv5vYmMrcoRdA25uugWvQbso",
+      "connection_type": "shared_wallet_control",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "f05722ad23c9c71e42174b5a33c3fee902ba75594f29ec77c5b9f0797aa96c56",
+      "risk_assessment": {
+        "score": 0,
+        "level": "Low",
+        "factors": [],
+        "category": "Complex Transaction",
+        "timestamp": "2025-05-19T12:32:57.921560"
+      }
+    },
+    {
+      "source_address": "bc1qw508d6qejxtdg4y5r3zarvary0c5xw7kv8f3t4",
+      "connected_address": "bc1q8742wwqvxhfaxpahe23a9ggr3lflutq9fds4fr",
+      "connection_type": "shared_wallet_control",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "f05722ad23c9c71e42174b5a33c3fee902ba75594f29ec77c5b9f0797aa96c56",
+      "risk_assessment": {
+        "score": 0,
+        "level": "Low",
+        "factors": [],
+        "category": "Complex Transaction",
+        "timestamp": "2025-05-19T12:32:57.921644"
+      }
+    },
+    {
+      "source_address": "bc1qw508d6qejxtdg4y5r3zarvary0c5xw7kv8f3t4",
+      "connected_address": "3JvL6Ymt8MVWiCNHC7oWU6nLeHNJKLZGLN",
+      "connection_type": "shared_wallet_control",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "f05722ad23c9c71e42174b5a33c3fee902ba75594f29ec77c5b9f0797aa96c56",
+      "risk_assessment": {
+        "score": 0,
+        "level": "Low",
+        "factors": [],
+        "category": "Complex Transaction",
+        "timestamp": "2025-05-19T12:32:57.921714"
+      }
+    },
+    {
+      "source_address": "bc1qw508d6qejxtdg4y5r3zarvary0c5xw7kv8f3t4",
+      "connected_address": "3J98t1WpEZ73CNmQviecrnyiWrnqRhWNLy",
+      "connection_type": "shared_wallet_control",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "f05722ad23c9c71e42174b5a33c3fee902ba75594f29ec77c5b9f0797aa96c56",
+      "risk_assessment": {
+        "score": 0,
+        "level": "Low",
+        "factors": [],
+        "category": "Complex Transaction",
+        "timestamp": "2025-05-19T12:32:57.921774"
+      }
+    },
+    {
+      "source_address": "bc1qw508d6qejxtdg4y5r3zarvary0c5xw7kv8f3t4",
+      "connected_address": "1HELPAKUTA4n4YdpYQSEK2Rhot6ZnL5P8Y",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "55571ca5e1f86c11a5ec5837aa1edf4262042b4b18379373585047ce8f8938cf",
+      "value": 546,
+      "risk_assessment": {
+        "score": 0,
+        "level": "Low",
+        "factors": [],
+        "category": "Self Transfer",
+        "timestamp": "2025-05-19T12:32:57.922109"
+      }
+    },
+    {
+      "source_address": "bc1qw508d6qejxtdg4y5r3zarvary0c5xw7kv8f3t4",
+      "connected_address": "bc1q9pt8p57hxtz40jqyvc3qpq5m64xpz422wlf6xv",
+      "connection_type": "sent_to",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "8919ce52e4cb36bff6dbd5363be9a4323dbcba25173e883052f592bebf07e00f",
+      "value": 14351,
+      "risk_assessment": {
+        "score": 0,
+        "level": "Low",
+        "factors": [],
+        "category": "Simple Transfer",
+        "timestamp": "2025-05-19T12:32:57.922281"
+      }
+    },
+    {
+      "source_address": "bc1qw508d6qejxtdg4y5r3zarvary0c5xw7kv8f3t4",
+      "connected_address": "bc1qq5azwlfvx879vy8vkydrrz8wkl536yecf85k7y",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "e0aefc72aaaa10b73e7583ed9a784f1716585aabbb0b2503832cdeb3aef67669",
+      "value": 29701,
+      "risk_assessment": {
+        "score": 65,
+        "level": "High",
+        "factors": [
+          {
+            "factor": "Chain Peel",
+            "weight": 65
+          }
+        ],
+        "category": "Chain Peeling",
+        "timestamp": "2025-05-19T12:32:57.922423"
+      }
+    },
+    {
+      "source_address": "bc1qw508d6qejxtdg4y5r3zarvary0c5xw7kv8f3t4",
+      "connected_address": "bc1qxdw4t0uvnztl6jxuxvvpnsmx9fg4w7qxv5tgm4",
+      "connection_type": "likely_change",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "cccd3a9ce6c59fd0b5ae4244cb9b239387efa31c96e0d45c0c0b82c0d7ee3bd8",
+      "value": 31546,
+      "risk_assessment": {
+        "score": 65,
+        "level": "High",
+        "factors": [
+          {
+            "factor": "Chain Peel",
+            "weight": 65
+          }
+        ],
+        "category": "Chain Peeling",
+        "timestamp": "2025-05-19T12:32:57.922584"
+      }
+    },
+    {
+      "source_address": "bc1qw508d6qejxtdg4y5r3zarvary0c5xw7kv8f3t4",
+      "connected_address": "1HZwkjkeaoZfTSaJxDw6aKkxp45agDiEzN",
+      "connection_type": "sent_to",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "cccd3a9ce6c59fd0b5ae4244cb9b239387efa31c96e0d45c0c0b82c0d7ee3bd8",
+      "value": 314426,
+      "risk_assessment": {
+        "score": 65,
+        "level": "High",
+        "factors": [
+          {
+            "factor": "Chain Peel",
+            "weight": 65
+          }
+        ],
+        "category": "Chain Peeling",
+        "timestamp": "2025-05-19T12:32:57.922652"
+      }
+    },
+    {
+      "source_address": "bc1qw508d6qejxtdg4y5r3zarvary0c5xw7kv8f3t4",
+      "connected_address": "1HZwkjkeaoZfTSaJxDw6aKkxp45agDiEzN",
+      "connection_type": "co_spending",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "cccd3a9ce6c59fd0b5ae4244cb9b239387efa31c96e0d45c0c0b82c0d7ee3bd8",
+      "risk_assessment": {
+        "score": 65,
+        "level": "High",
+        "factors": [
+          {
+            "factor": "Chain Peel",
+            "weight": 65
+          }
+        ],
+        "category": "Chain Peeling",
+        "timestamp": "2025-05-19T12:32:57.922727"
+      }
+    },
+    {
+      "source_address": "bc1qw508d6qejxtdg4y5r3zarvary0c5xw7kv8f3t4",
+      "connected_address": "1BgGZ9tcN4rm9KBzDn7KprQz87SZ26SAMH",
+      "connection_type": "co_spending",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "cccd3a9ce6c59fd0b5ae4244cb9b239387efa31c96e0d45c0c0b82c0d7ee3bd8",
+      "risk_assessment": {
+        "score": 65,
+        "level": "High",
+        "factors": [
+          {
+            "factor": "Chain Peel",
+            "weight": 65
+          }
+        ],
+        "category": "Chain Peeling",
+        "timestamp": "2025-05-19T12:32:57.922806"
+      }
+    },
+    {
+      "source_address": "bc1qw508d6qejxtdg4y5r3zarvary0c5xw7kv8f3t4",
+      "connected_address": "bc1qpeuhg6gcs4gdze7cmp3tmu9yjzkp7edtt6f4k4",
+      "connection_type": "co_spending",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "cccd3a9ce6c59fd0b5ae4244cb9b239387efa31c96e0d45c0c0b82c0d7ee3bd8",
+      "risk_assessment": {
+        "score": 65,
+        "level": "High",
+        "factors": [
+          {
+            "factor": "Chain Peel",
+            "weight": 65
+          }
+        ],
+        "category": "Chain Peeling",
+        "timestamp": "2025-05-19T12:32:57.922875"
+      }
+    },
+    {
+      "source_address": "bc1qw508d6qejxtdg4y5r3zarvary0c5xw7kv8f3t4",
+      "connected_address": "1HZwkjkeaoZfTSaJxDw6aKkxp45agDiEzN",
+      "connection_type": "shared_wallet_control",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "cccd3a9ce6c59fd0b5ae4244cb9b239387efa31c96e0d45c0c0b82c0d7ee3bd8",
+      "risk_assessment": {
+        "score": 65,
+        "level": "High",
+        "factors": [
+          {
+            "factor": "Chain Peel",
+            "weight": 65
+          }
+        ],
+        "category": "Chain Peeling",
+        "timestamp": "2025-05-19T12:32:57.922965"
+      }
+    },
+    {
+      "source_address": "bc1qw508d6qejxtdg4y5r3zarvary0c5xw7kv8f3t4",
+      "connected_address": "1BgGZ9tcN4rm9KBzDn7KprQz87SZ26SAMH",
+      "connection_type": "shared_wallet_control",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "cccd3a9ce6c59fd0b5ae4244cb9b239387efa31c96e0d45c0c0b82c0d7ee3bd8",
+      "risk_assessment": {
+        "score": 65,
+        "level": "High",
+        "factors": [
+          {
+            "factor": "Chain Peel",
+            "weight": 65
+          }
+        ],
+        "category": "Chain Peeling",
+        "timestamp": "2025-05-19T12:32:57.923043"
+      }
+    },
+    {
+      "source_address": "bc1qw508d6qejxtdg4y5r3zarvary0c5xw7kv8f3t4",
+      "connected_address": "bc1qpeuhg6gcs4gdze7cmp3tmu9yjzkp7edtt6f4k4",
+      "connection_type": "shared_wallet_control",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "cccd3a9ce6c59fd0b5ae4244cb9b239387efa31c96e0d45c0c0b82c0d7ee3bd8",
+      "risk_assessment": {
+        "score": 65,
+        "level": "High",
+        "factors": [
+          {
+            "factor": "Chain Peel",
+            "weight": 65
+          }
+        ],
+        "category": "Chain Peeling",
+        "timestamp": "2025-05-19T12:32:57.923105"
+      }
+    },
+    {
+      "source_address": "bc1qw508d6qejxtdg4y5r3zarvary0c5xw7kv8f3t4",
+      "connected_address": "1Gs7qLure58wfoYuQrEeYKnJRc6ZGPwwK6",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "e254a136fa744c4d167f26606bd368b2d71e11224fb9077834e3fb2a93b7ed67",
+      "value": 546,
+      "risk_assessment": {
+        "score": 0,
+        "level": "Low",
+        "factors": [],
+        "category": "Self Transfer",
+        "timestamp": "2025-05-19T12:32:57.923373"
+      }
+    },
+    {
+      "source_address": "bc1qw508d6qejxtdg4y5r3zarvary0c5xw7kv8f3t4",
+      "connected_address": "163eZedpchQp5DQrWpgiygpP1MaTV4Xaam",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "e254a136fa744c4d167f26606bd368b2d71e11224fb9077834e3fb2a93b7ed67",
+      "value": 546,
+      "risk_assessment": {
+        "score": 0,
+        "level": "Low",
+        "factors": [],
+        "category": "Self Transfer",
+        "timestamp": "2025-05-19T12:32:57.923499"
+      }
+    },
+    {
+      "source_address": "bc1qw508d6qejxtdg4y5r3zarvary0c5xw7kv8f3t4",
+      "connected_address": "bc1qv6rh48vprx0usrr2eevfwzjyj34s4vcxk5j5pt",
+      "connection_type": "sent_to",
+      "transaction_count": 3,
+      "first_seen": "",
+      "transaction_hashes": "1e0ca2160af59bd08611413270964901a3fb67d892590e546b2151b3d08ae7d7,6d04e973062c4993dc0eaff2142639dd6d29e1165b6bb494b86ea04f5b0bc132,61012bf6ec1c52dc084a684e0132f8948a8229c95b11edf03cd763079caa84af",
+      "value": 1350,
+      "risk_assessment": {
+        "score": 0,
+        "level": "Low",
+        "factors": [],
+        "category": "Simple Transfer",
+        "timestamp": "2025-05-19T12:32:57.923666"
+      }
+    },
+    {
+      "source_address": "bc1qw508d6qejxtdg4y5r3zarvary0c5xw7kv8f3t4",
+      "connected_address": "bc1purr7a3q3uhj9slwzz6rxfy7rqur42kfyyrywj67eswfzp7hdfahs4atlx5",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "ba29a9382cb63ab11b51b692c974cd0cf005758ab8a1ddb968c94ef1e5c5e48e",
+      "value": 100000,
+      "risk_assessment": {
+        "score": 0,
+        "level": "Low",
+        "factors": [],
+        "category": "Self Transfer",
+        "timestamp": "2025-05-19T12:32:57.923824"
+      }
+    },
+    {
+      "source_address": "bc1qw508d6qejxtdg4y5r3zarvary0c5xw7kv8f3t4",
+      "connected_address": "1KRrcuUQ54KHH2wgkPxp6JuzitLoCKt1Zh",
+      "connection_type": "sent_to",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "5b7d77b4a2764fe184be7efe6270cc87cd451c6a59f66d647045e08e91f7106d",
+      "value": 113116,
+      "risk_assessment": {
+        "score": 0,
+        "level": "Low",
+        "factors": [],
+        "category": "Complex Transaction",
+        "timestamp": "2025-05-19T12:32:57.923970"
+      }
+    },
+    {
+      "source_address": "bc1qw508d6qejxtdg4y5r3zarvary0c5xw7kv8f3t4",
+      "connected_address": "144YN2wEHoGTXNKdn3zn9A1kUvvZg2Vkj5",
+      "connection_type": "co_spending",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "5b7d77b4a2764fe184be7efe6270cc87cd451c6a59f66d647045e08e91f7106d",
+      "risk_assessment": {
+        "score": 0,
+        "level": "Low",
+        "factors": [],
+        "category": "Complex Transaction",
+        "timestamp": "2025-05-19T12:32:57.924050"
+      }
+    },
+    {
+      "source_address": "bc1qw508d6qejxtdg4y5r3zarvary0c5xw7kv8f3t4",
+      "connected_address": "144YN2wEHoGTXNKdn3zn9A1kUvvZg2Vkj5",
+      "connection_type": "shared_wallet_control",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "5b7d77b4a2764fe184be7efe6270cc87cd451c6a59f66d647045e08e91f7106d",
+      "risk_assessment": {
+        "score": 0,
+        "level": "Low",
+        "factors": [],
+        "category": "Complex Transaction",
+        "timestamp": "2025-05-19T12:32:57.924110"
+      }
+    },
+    {
+      "source_address": "bc1qw508d6qejxtdg4y5r3zarvary0c5xw7kv8f3t4",
+      "connected_address": "bc1q45a3d4euurcd8scgmu60h42wcsmpqlfkw3sank",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "aa366d9b8966a13e2923c7864c1a7c1355ee57476b35c6271dbfc434a65fefc1",
+      "value": 7000,
+      "risk_assessment": {
+        "score": 100,
+        "level": "Critical",
+        "factors": [
+          {
+            "factor": "Mixing Service",
+            "weight": 80
+          },
+          {
+            "factor": "Multiple Inputs Outputs",
+            "weight": 30
+          }
+        ],
+        "category": "Possible Mixing",
+        "timestamp": "2025-05-19T12:32:57.924430"
+      }
+    },
+    {
+      "source_address": "bc1qw508d6qejxtdg4y5r3zarvary0c5xw7kv8f3t4",
+      "connected_address": "bc1q7dnh564vjzuzc5ztyv4xsw8tumu64kj0gu0sha",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "aa366d9b8966a13e2923c7864c1a7c1355ee57476b35c6271dbfc434a65fefc1",
+      "value": 7000,
+      "risk_assessment": {
+        "score": 100,
+        "level": "Critical",
+        "factors": [
+          {
+            "factor": "Mixing Service",
+            "weight": 80
+          },
+          {
+            "factor": "Multiple Inputs Outputs",
+            "weight": 30
+          }
+        ],
+        "category": "Possible Mixing",
+        "timestamp": "2025-05-19T12:32:57.924627"
+      }
+    },
+    {
+      "source_address": "bc1qw508d6qejxtdg4y5r3zarvary0c5xw7kv8f3t4",
+      "connected_address": "bc1qd478cge5q277zz0hwmt56fpt6dvwhxdemk6k4v",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "aa366d9b8966a13e2923c7864c1a7c1355ee57476b35c6271dbfc434a65fefc1",
+      "value": 7000,
+      "risk_assessment": {
+        "score": 100,
+        "level": "Critical",
+        "factors": [
+          {
+            "factor": "Mixing Service",
+            "weight": 80
+          },
+          {
+            "factor": "Multiple Inputs Outputs",
+            "weight": 30
+          }
+        ],
+        "category": "Possible Mixing",
+        "timestamp": "2025-05-19T12:32:57.924875"
+      }
+    },
+    {
+      "source_address": "bc1qw508d6qejxtdg4y5r3zarvary0c5xw7kv8f3t4",
+      "connected_address": "bc1qnqv7f9qcsrq04ehs5ya5fgk8d3vg0kylzjns38",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "aa366d9b8966a13e2923c7864c1a7c1355ee57476b35c6271dbfc434a65fefc1",
+      "value": 7000,
+      "risk_assessment": {
+        "score": 100,
+        "level": "Critical",
+        "factors": [
+          {
+            "factor": "Mixing Service",
+            "weight": 80
+          },
+          {
+            "factor": "Multiple Inputs Outputs",
+            "weight": 30
+          }
+        ],
+        "category": "Possible Mixing",
+        "timestamp": "2025-05-19T12:32:57.925064"
+      }
+    },
+    {
+      "source_address": "bc1qw508d6qejxtdg4y5r3zarvary0c5xw7kv8f3t4",
+      "connected_address": "bc1q5rewzvq537pc5kkr99cgru6l9snn7mv4csjjz5",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "aa366d9b8966a13e2923c7864c1a7c1355ee57476b35c6271dbfc434a65fefc1",
+      "value": 7000,
+      "risk_assessment": {
+        "score": 100,
+        "level": "Critical",
+        "factors": [
+          {
+            "factor": "Mixing Service",
+            "weight": 80
+          },
+          {
+            "factor": "Multiple Inputs Outputs",
+            "weight": 30
+          }
+        ],
+        "category": "Possible Mixing",
+        "timestamp": "2025-05-19T12:32:57.925259"
+      }
+    },
+    {
+      "source_address": "bc1qw508d6qejxtdg4y5r3zarvary0c5xw7kv8f3t4",
+      "connected_address": "bc1qlxzwvavlp7f4qrnx0e66hkyl627gy6mc0am3lf",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "aa366d9b8966a13e2923c7864c1a7c1355ee57476b35c6271dbfc434a65fefc1",
+      "value": 7000,
+      "risk_assessment": {
+        "score": 100,
+        "level": "Critical",
+        "factors": [
+          {
+            "factor": "Mixing Service",
+            "weight": 80
+          },
+          {
+            "factor": "Multiple Inputs Outputs",
+            "weight": 30
+          }
+        ],
+        "category": "Possible Mixing",
+        "timestamp": "2025-05-19T12:32:57.925444"
+      }
+    },
+    {
+      "source_address": "bc1qw508d6qejxtdg4y5r3zarvary0c5xw7kv8f3t4",
+      "connected_address": "bc1qxy3qpfu6hmykw3xsv0ed923zrk3fa5tt3qtfcj",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "aa366d9b8966a13e2923c7864c1a7c1355ee57476b35c6271dbfc434a65fefc1",
+      "value": 7000,
+      "risk_assessment": {
+        "score": 100,
+        "level": "Critical",
+        "factors": [
+          {
+            "factor": "Mixing Service",
+            "weight": 80
+          },
+          {
+            "factor": "Multiple Inputs Outputs",
+            "weight": 30
+          }
+        ],
+        "category": "Possible Mixing",
+        "timestamp": "2025-05-19T12:32:57.925647"
+      }
+    },
+    {
+      "source_address": "bc1qw508d6qejxtdg4y5r3zarvary0c5xw7kv8f3t4",
+      "connected_address": "3GKefQo7hqFEV8T2GXGE4vHPFhL3VfCbBJ",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "aa366d9b8966a13e2923c7864c1a7c1355ee57476b35c6271dbfc434a65fefc1",
+      "value": 7000,
+      "risk_assessment": {
+        "score": 100,
+        "level": "Critical",
+        "factors": [
+          {
+            "factor": "Mixing Service",
+            "weight": 80
+          },
+          {
+            "factor": "Multiple Inputs Outputs",
+            "weight": 30
+          }
+        ],
+        "category": "Possible Mixing",
+        "timestamp": "2025-05-19T12:32:57.925866"
+      }
+    },
+    {
+      "source_address": "bc1qw508d6qejxtdg4y5r3zarvary0c5xw7kv8f3t4",
+      "connected_address": "bc1q38gtvnkya6qp0ex9ltuqc840zxhvpcgg0lhrzw",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "49d38a715ea1342c3ebfc3035b5d48994fe07780eadf34bca4f626b2a77feb98",
+      "value": 5000,
+      "risk_assessment": {
+        "score": 0,
+        "level": "Low",
+        "factors": [],
+        "category": "Self Transfer",
+        "timestamp": "2025-05-19T12:32:57.926303"
+      }
+    },
+    {
+      "source_address": "bc1qw508d6qejxtdg4y5r3zarvary0c5xw7kv8f3t4",
+      "connected_address": "bc1qlxmqdsfr85049re9l2w5zydpux3v5l0jzufvkl",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "49d38a715ea1342c3ebfc3035b5d48994fe07780eadf34bca4f626b2a77feb98",
+      "value": 5000,
+      "risk_assessment": {
+        "score": 0,
+        "level": "Low",
+        "factors": [],
+        "category": "Self Transfer",
+        "timestamp": "2025-05-19T12:32:57.926564"
+      }
+    },
+    {
+      "source_address": "bc1qw508d6qejxtdg4y5r3zarvary0c5xw7kv8f3t4",
+      "connected_address": "bc1qnlsmrv7tywwqytdnyat4lef3hsvkh76vmsck4k",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "49d38a715ea1342c3ebfc3035b5d48994fe07780eadf34bca4f626b2a77feb98",
+      "value": 5000,
+      "risk_assessment": {
+        "score": 0,
+        "level": "Low",
+        "factors": [],
+        "category": "Self Transfer",
+        "timestamp": "2025-05-19T12:32:57.926802"
+      }
+    },
+    {
+      "source_address": "bc1qw508d6qejxtdg4y5r3zarvary0c5xw7kv8f3t4",
+      "connected_address": "bc1pcgcx2mfvs0pgd4y4cw5at38gstnkm6mhdqy5wpvf0fxct825cmfsd9grym",
+      "connection_type": "direct_payment",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "b7014aae1ccf2e1226e9e3550045fd03700168fe831a68da214fe07d1e72a645",
+      "value": 330,
+      "risk_assessment": {
+        "score": 0,
+        "level": "Low",
+        "factors": [],
+        "category": "Self Transfer",
+        "timestamp": "2025-05-19T12:32:57.926940"
+      }
+    },
+    {
+      "source_address": "bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq",
+      "connected_address": "bc1qtuvm9wlq82nkf0ly5zs6jxen774axgwdxcggrw",
+      "connection_type": "direct_payment",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "78d338215ac96c4ae343d898e887b7c9302897aa03de61f0746c1cd858384ab2",
+      "value": 2375,
+      "risk_assessment": {
+        "score": 0,
+        "level": "Low",
+        "factors": [],
+        "category": "Self Transfer",
+        "timestamp": "2025-05-19T12:33:07.991495"
+      }
+    },
+    {
+      "source_address": "bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq",
+      "connected_address": "bc1qhums9dd8kj5f0npnw2rsmgg5q5zra0plkx0pap",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "fc97dd48729220f1417ee95af118fa0839dc3080ddc962c1cc9a654800cfc63b",
+      "value": 60301,
+      "risk_assessment": {
+        "score": 65,
+        "level": "High",
+        "factors": [
+          {
+            "factor": "Chain Peel",
+            "weight": 65
+          }
+        ],
+        "category": "Chain Peeling",
+        "timestamp": "2025-05-19T12:33:07.991980"
+      }
+    },
+    {
+      "source_address": "bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq",
+      "connected_address": "bc1qef237v60a5335deepsuhmj2vgx9cckpdap2n4s",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "cd4c6336650e03d133ede32a00bdc9aa72c5a7a00937320594bdac3d942fd4f7",
+      "value": 10068,
+      "risk_assessment": {
+        "score": 0,
+        "level": "Low",
+        "factors": [],
+        "category": "Self Transfer",
+        "timestamp": "2025-05-19T12:33:07.993695"
+      }
+    },
+    {
+      "source_address": "bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq",
+      "connected_address": "bc1qpv5scssg89576aggnxae886cst5r3h7x9zvr2d",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "ae0c1bf8f3af4b0c84f739a7f6d5d93bbb62f1cef8454c0ae7e9b5cf1d322e73",
+      "value": 240494,
+      "risk_assessment": {
+        "score": 0,
+        "level": "Low",
+        "factors": [],
+        "category": "Self Transfer",
+        "timestamp": "2025-05-19T12:33:07.994264"
+      }
+    },
+    {
+      "source_address": "bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq",
+      "connected_address": "bc1qpz5vgn4sd4mycyh8z9sna4g3aw60anz3mh8uq5",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "edf08e9c340d2c02de1d8828666a6e7e80bceeb02bcfe173baec133b8b82262e",
+      "value": 70711,
+      "risk_assessment": {
+        "score": 30,
+        "level": "Medium",
+        "factors": [
+          {
+            "factor": "Multiple Inputs Outputs",
+            "weight": 30
+          }
+        ],
+        "category": "Self Transfer",
+        "timestamp": "2025-05-19T12:33:07.994731"
+      }
+    },
+    {
+      "source_address": "bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq",
+      "connected_address": "bc1q4cw5yt3nk844zexrfus3823434fhe448qf33m0",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "edf08e9c340d2c02de1d8828666a6e7e80bceeb02bcfe173baec133b8b82262e",
+      "value": 70711,
+      "risk_assessment": {
+        "score": 30,
+        "level": "Medium",
+        "factors": [
+          {
+            "factor": "Multiple Inputs Outputs",
+            "weight": 30
+          }
+        ],
+        "category": "Self Transfer",
+        "timestamp": "2025-05-19T12:33:07.995041"
+      }
+    },
+    {
+      "source_address": "bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq",
+      "connected_address": "bc1qs8jqvfy9l8crsjgkpqrckt7sjaueqxyym7a483",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "edf08e9c340d2c02de1d8828666a6e7e80bceeb02bcfe173baec133b8b82262e",
+      "value": 70711,
+      "risk_assessment": {
+        "score": 30,
+        "level": "Medium",
+        "factors": [
+          {
+            "factor": "Multiple Inputs Outputs",
+            "weight": 30
+          }
+        ],
+        "category": "Self Transfer",
+        "timestamp": "2025-05-19T12:33:07.995355"
+      }
+    },
+    {
+      "source_address": "bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq",
+      "connected_address": "bc1qf2pwgy3yghg548takhzpndjlllzfrt2afxdzsj",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "edf08e9c340d2c02de1d8828666a6e7e80bceeb02bcfe173baec133b8b82262e",
+      "value": 70711,
+      "risk_assessment": {
+        "score": 30,
+        "level": "Medium",
+        "factors": [
+          {
+            "factor": "Multiple Inputs Outputs",
+            "weight": 30
+          }
+        ],
+        "category": "Self Transfer",
+        "timestamp": "2025-05-19T12:33:07.995693"
+      }
+    },
+    {
+      "source_address": "bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq",
+      "connected_address": "bc1q5kz0q6jxg2y3hxjx5j59vm505ryw4887guk74x",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "01fdbe66cc2b67282dd62ed82d742fdcb943586f3ea06c8bc61d2ac0e291e865",
+      "value": 22000,
+      "risk_assessment": {
+        "score": 0,
+        "level": "Low",
+        "factors": [],
+        "category": "Self Transfer",
+        "timestamp": "2025-05-19T12:33:07.995894"
+      }
+    },
+    {
+      "source_address": "bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq",
+      "connected_address": "1G9Yhz6wLQeu993r8LWojJgmvUS1o1UvJv",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "e82bcae6afef88642abdfcef045eaff038b716333303c5009ea121cc502fd09e",
+      "value": 5000,
+      "risk_assessment": {
+        "score": 65,
+        "level": "High",
+        "factors": [
+          {
+            "factor": "Chain Peel",
+            "weight": 65
+          }
+        ],
+        "category": "Chain Peeling",
+        "timestamp": "2025-05-19T12:33:07.996100"
+      }
+    },
+    {
+      "source_address": "bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq",
+      "connected_address": "bc1q0n37x0fafgfreg6c8x04czf94pwmayza2uflcm",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "47ba2a950608cc1cba218b98d18ee5bc74e4f80023f2ecd1d81e87a88557eec4",
+      "value": 656695,
+      "risk_assessment": {
+        "score": 15,
+        "level": "Low",
+        "factors": [
+          {
+            "factor": "Round Amounts",
+            "weight": 15
+          }
+        ],
+        "category": "Self Transfer",
+        "timestamp": "2025-05-19T12:33:07.996718"
+      }
+    },
+    {
+      "source_address": "bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq",
+      "connected_address": "bc1qedlajye6r3mcqc2fgfvrjgndw6zn0duupk5asw",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "e4495210e2f3715198a7b0e290261fe8a37616ba5021a601b5ddad5eee17787a",
+      "value": 540000,
+      "risk_assessment": {
+        "score": 65,
+        "level": "High",
+        "factors": [
+          {
+            "factor": "Chain Peel",
+            "weight": 65
+          }
+        ],
+        "category": "Chain Peeling",
+        "timestamp": "2025-05-19T12:33:07.997099"
+      }
+    },
+    {
+      "source_address": "bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq",
+      "connected_address": "3Jowo3hYr1oqv7J7osUu4eW88owPZScgFk",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "fbc5c7fb358942b5cf3ff6a0ca01b3c1c8c84bb1f2ff33385cf1c0a4a65913d6",
+      "value": 102000,
+      "risk_assessment": {
+        "score": 0,
+        "level": "Low",
+        "factors": [],
+        "category": "Self Transfer",
+        "timestamp": "2025-05-19T12:33:07.997682"
+      }
+    },
+    {
+      "source_address": "bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq",
+      "connected_address": "144GuPRFRBghKyd1Lj94fNdGEzABHRGs5n",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "f6aee7c04b5b5a037f703a988c3645131b910e5e2f745c4595cd970165548dd0",
+      "value": 74640,
+      "risk_assessment": {
+        "score": 0,
+        "level": "Low",
+        "factors": [],
+        "category": "Self Transfer",
+        "timestamp": "2025-05-19T12:33:07.998283"
+      }
+    },
+    {
+      "source_address": "bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq",
+      "connected_address": "bc1qcf9am3g504maxy933p28jauqhcjtkd4xwtawl5",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "a220c49c8f575050f046e63a042e7e6f25c26c9e022cbdb9e7d8d55afe71e76e",
+      "value": 41823,
+      "risk_assessment": {
+        "score": 65,
+        "level": "High",
+        "factors": [
+          {
+            "factor": "Chain Peel",
+            "weight": 65
+          }
+        ],
+        "category": "Chain Peeling",
+        "timestamp": "2025-05-19T12:33:07.998958"
+      }
+    },
+    {
+      "source_address": "bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq",
+      "connected_address": "bc1qd6wze0n7v5s46y6q4waxu0x3lym4h5awawn2lq",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "82c4863277a8c23cf87de423ddbc531fdf5b2538f8c029a02e01e2a6460ec0bd",
+      "value": 50000,
+      "risk_assessment": {
+        "score": 0,
+        "level": "Low",
+        "factors": [],
+        "category": "Self Transfer",
+        "timestamp": "2025-05-19T12:33:07.999439"
+      }
+    },
+    {
+      "source_address": "bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq",
+      "connected_address": "bc1q0ln83sln6ddcvpqd2ufnkncu88w5pd86njhdy3v5t28fcxekvg5sq4a0xa",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "4cf50e67637d9eae518c1f7a69cf09060a4ca1b60626ac438c4f2aa2cdc87c05",
+      "value": 784210,
+      "risk_assessment": {
+        "score": 0,
+        "level": "Low",
+        "factors": [],
+        "category": "Self Transfer",
+        "timestamp": "2025-05-19T12:33:07.999762"
+      }
+    },
+    {
+      "source_address": "bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq",
+      "connected_address": "bc1qkhspmf666aftxaywmv36fqp8xwrku9vvu4dq4v",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "b29e9c3a34223a578bd81b0fc7c573a11f9dce39b86466d62247f7c04c76f01a",
+      "value": 533724,
+      "risk_assessment": {
+        "score": 0,
+        "level": "Low",
+        "factors": [],
+        "category": "Self Transfer",
+        "timestamp": "2025-05-19T12:33:08.000425"
+      }
+    },
+    {
+      "source_address": "bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq",
+      "connected_address": "bc1qqm4zx3c6f8sxux5cahe43xt3a5unspfc8m4sn8",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "c147e807997bb21235fcae0f9de96533ed469d431343ec295f1941c9832050af",
+      "value": 10000,
+      "risk_assessment": {
+        "score": 65,
+        "level": "High",
+        "factors": [
+          {
+            "factor": "Chain Peel",
+            "weight": 65
+          }
+        ],
+        "category": "Chain Peeling",
+        "timestamp": "2025-05-19T12:33:08.000658"
+      }
+    },
+    {
+      "source_address": "bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq",
+      "connected_address": "bc1qtz0l7e238fw56ddhnssucv8yqh5f4ryqcvckxa",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "c147e807997bb21235fcae0f9de96533ed469d431343ec295f1941c9832050af",
+      "value": 10000,
+      "risk_assessment": {
+        "score": 65,
+        "level": "High",
+        "factors": [
+          {
+            "factor": "Chain Peel",
+            "weight": 65
+          }
+        ],
+        "category": "Chain Peeling",
+        "timestamp": "2025-05-19T12:33:08.000761"
+      }
+    },
+    {
+      "source_address": "bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq",
+      "connected_address": "bc1qzvufyt3qds9xfy4rymlwjd60lxsve2mg9zd9mc",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "c147e807997bb21235fcae0f9de96533ed469d431343ec295f1941c9832050af",
+      "value": 10000,
+      "risk_assessment": {
+        "score": 65,
+        "level": "High",
+        "factors": [
+          {
+            "factor": "Chain Peel",
+            "weight": 65
+          }
+        ],
+        "category": "Chain Peeling",
+        "timestamp": "2025-05-19T12:33:08.000866"
+      }
+    },
+    {
+      "source_address": "bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq",
+      "connected_address": "bc1qvg7kf0gvnqrhr9dfk904dvz5e30n3xejpc0v0j",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "c147e807997bb21235fcae0f9de96533ed469d431343ec295f1941c9832050af",
+      "value": 10000,
+      "risk_assessment": {
+        "score": 65,
+        "level": "High",
+        "factors": [
+          {
+            "factor": "Chain Peel",
+            "weight": 65
+          }
+        ],
+        "category": "Chain Peeling",
+        "timestamp": "2025-05-19T12:33:08.000959"
+      }
+    },
+    {
+      "source_address": "bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq",
+      "connected_address": "bc1qx8hl3gzlm96m48fx937jnf94hfzp3w6084enu3",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "c147e807997bb21235fcae0f9de96533ed469d431343ec295f1941c9832050af",
+      "value": 10000,
+      "risk_assessment": {
+        "score": 65,
+        "level": "High",
+        "factors": [
+          {
+            "factor": "Chain Peel",
+            "weight": 65
+          }
+        ],
+        "category": "Chain Peeling",
+        "timestamp": "2025-05-19T12:33:08.001056"
+      }
+    },
+    {
+      "source_address": "bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq",
+      "connected_address": "bc1qfsmrl9pwl7ten4us8ma2efgc44hryh43qqnfd6ashyr554y2y79qx3q4zf",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "7231e3eefa4154600f0a2cf75384d0c02c0f34620850b3c7f48a157fb7198e75",
+      "value": 120000,
+      "risk_assessment": {
+        "score": 30,
+        "level": "Medium",
+        "factors": [
+          {
+            "factor": "Multiple Inputs Outputs",
+            "weight": 30
+          }
+        ],
+        "category": "Self Transfer",
+        "timestamp": "2025-05-19T12:33:08.001314"
+      }
+    },
+    {
+      "source_address": "bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq",
+      "connected_address": "bc1q5gqyg8jgpskh50hek262t4njamq9dvxuaxl5uha2yyxhnc7xh59sltvglu",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "7231e3eefa4154600f0a2cf75384d0c02c0f34620850b3c7f48a157fb7198e75",
+      "value": 120000,
+      "risk_assessment": {
+        "score": 30,
+        "level": "Medium",
+        "factors": [
+          {
+            "factor": "Multiple Inputs Outputs",
+            "weight": 30
+          }
+        ],
+        "category": "Self Transfer",
+        "timestamp": "2025-05-19T12:33:08.001439"
+      }
+    },
+    {
+      "source_address": "bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq",
+      "connected_address": "3B9Q2TbVVYHZT9cMMBX2k3sgwULnYiTYnJ",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "7231e3eefa4154600f0a2cf75384d0c02c0f34620850b3c7f48a157fb7198e75",
+      "value": 120000,
+      "risk_assessment": {
+        "score": 30,
+        "level": "Medium",
+        "factors": [
+          {
+            "factor": "Multiple Inputs Outputs",
+            "weight": 30
+          }
+        ],
+        "category": "Self Transfer",
+        "timestamp": "2025-05-19T12:33:08.001558"
+      }
+    },
+    {
+      "source_address": "bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq",
+      "connected_address": "bc1qjg687mas85s296ulg0graq6al8x0sxues82nfs8gx8clhss45mys8p5e6g",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "7231e3eefa4154600f0a2cf75384d0c02c0f34620850b3c7f48a157fb7198e75",
+      "value": 120000,
+      "risk_assessment": {
+        "score": 30,
+        "level": "Medium",
+        "factors": [
+          {
+            "factor": "Multiple Inputs Outputs",
+            "weight": 30
+          }
+        ],
+        "category": "Self Transfer",
+        "timestamp": "2025-05-19T12:33:08.001917"
+      }
+    },
+    {
+      "source_address": "bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq",
+      "connected_address": "1LhbySTJBJXzgCboFovpzWFwueP2JtRTkM",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "e38ef5f45a87dd63565f3fb408a32cbab9e107c582d5f90f14fd1f7ae25770c9",
+      "value": 27744,
+      "risk_assessment": {
+        "score": 0,
+        "level": "Low",
+        "factors": [],
+        "category": "Self Transfer",
+        "timestamp": "2025-05-19T12:33:08.002112"
+      }
+    },
+    {
+      "source_address": "bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq",
+      "connected_address": "3GKVn5UNsjY2fZSbQt199im4nYJuCe9mX2",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "2e94d9c741b58f316bfd61fbf3c7fe59d8d479bb7e525a43fc432c4f1e110948",
+      "value": 207900,
+      "risk_assessment": {
+        "score": 65,
+        "level": "High",
+        "factors": [
+          {
+            "factor": "Chain Peel",
+            "weight": 65
+          }
+        ],
+        "category": "Chain Peeling",
+        "timestamp": "2025-05-19T12:33:08.002294"
+      }
+    },
+    {
+      "source_address": "bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq",
+      "connected_address": "3JRLuXkuU4UCPTgwamUxa1FVqjaoirjmKi",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "573b1c7cb1d9d91817bb21dd6d2a80cfa7c1cb0785216d6ac7ae2c32d2d80cf5",
+      "value": 50000,
+      "risk_assessment": {
+        "score": 0,
+        "level": "Low",
+        "factors": [],
+        "category": "Self Transfer",
+        "timestamp": "2025-05-19T12:33:08.002513"
+      }
+    },
+    {
+      "source_address": "bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq",
+      "connected_address": "3MG1gNqZ3FSz2MJS2zCkYGC23WSuXadQCp",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "573b1c7cb1d9d91817bb21dd6d2a80cfa7c1cb0785216d6ac7ae2c32d2d80cf5",
+      "value": 50000,
+      "risk_assessment": {
+        "score": 0,
+        "level": "Low",
+        "factors": [],
+        "category": "Self Transfer",
+        "timestamp": "2025-05-19T12:33:08.002601"
+      }
+    },
+    {
+      "source_address": "bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq",
+      "connected_address": "3F47AZjGR5wGHs6SM25kwuPQZzPzP7vxvq",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "573b1c7cb1d9d91817bb21dd6d2a80cfa7c1cb0785216d6ac7ae2c32d2d80cf5",
+      "value": 50000,
+      "risk_assessment": {
+        "score": 0,
+        "level": "Low",
+        "factors": [],
+        "category": "Self Transfer",
+        "timestamp": "2025-05-19T12:33:08.002682"
+      }
+    },
+    {
+      "source_address": "bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq",
+      "connected_address": "3ETq2gAGWgy2t3xEgSYYXA3AKWYnaPCddg",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "573b1c7cb1d9d91817bb21dd6d2a80cfa7c1cb0785216d6ac7ae2c32d2d80cf5",
+      "value": 50000,
+      "risk_assessment": {
+        "score": 0,
+        "level": "Low",
+        "factors": [],
+        "category": "Self Transfer",
+        "timestamp": "2025-05-19T12:33:08.002762"
+      }
+    },
+    {
+      "source_address": "bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq",
+      "connected_address": "3CBBK3ayGUq41GSTjURuTeY8kwTrr8DzUh",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "573b1c7cb1d9d91817bb21dd6d2a80cfa7c1cb0785216d6ac7ae2c32d2d80cf5",
+      "value": 50000,
+      "risk_assessment": {
+        "score": 0,
+        "level": "Low",
+        "factors": [],
+        "category": "Self Transfer",
+        "timestamp": "2025-05-19T12:33:08.002841"
+      }
+    },
+    {
+      "source_address": "bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq",
+      "connected_address": "36jfwgLCyVusk569VAfHZiB8wzzqww581e",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "573b1c7cb1d9d91817bb21dd6d2a80cfa7c1cb0785216d6ac7ae2c32d2d80cf5",
+      "value": 50000,
+      "risk_assessment": {
+        "score": 0,
+        "level": "Low",
+        "factors": [],
+        "category": "Self Transfer",
+        "timestamp": "2025-05-19T12:33:08.002919"
+      }
+    },
+    {
+      "source_address": "bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq",
+      "connected_address": "38EnbvL5VKeE54eazhqrEbP1CMAvSjvbHW",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "573b1c7cb1d9d91817bb21dd6d2a80cfa7c1cb0785216d6ac7ae2c32d2d80cf5",
+      "value": 50000,
+      "risk_assessment": {
+        "score": 0,
+        "level": "Low",
+        "factors": [],
+        "category": "Self Transfer",
+        "timestamp": "2025-05-19T12:33:08.003008"
+      }
+    },
+    {
+      "source_address": "bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq",
+      "connected_address": "33wcoAGDFziim6mqFq3M6SdAxjv1CKgFsX",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "573b1c7cb1d9d91817bb21dd6d2a80cfa7c1cb0785216d6ac7ae2c32d2d80cf5",
+      "value": 50000,
+      "risk_assessment": {
+        "score": 0,
+        "level": "Low",
+        "factors": [],
+        "category": "Self Transfer",
+        "timestamp": "2025-05-19T12:33:08.003088"
+      }
+    },
+    {
+      "source_address": "bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq",
+      "connected_address": "3NNhLAHbEart7HZQu2mzBmsjACzBH2bTGu",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "573b1c7cb1d9d91817bb21dd6d2a80cfa7c1cb0785216d6ac7ae2c32d2d80cf5",
+      "value": 50000,
+      "risk_assessment": {
+        "score": 0,
+        "level": "Low",
+        "factors": [],
+        "category": "Self Transfer",
+        "timestamp": "2025-05-19T12:33:08.003192"
+      }
+    },
+    {
+      "source_address": "bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq",
+      "connected_address": "35NtbWJLzDHvNRGe5m7sTDDzxZ31Ak37T4",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "573b1c7cb1d9d91817bb21dd6d2a80cfa7c1cb0785216d6ac7ae2c32d2d80cf5",
+      "value": 50000,
+      "risk_assessment": {
+        "score": 0,
+        "level": "Low",
+        "factors": [],
+        "category": "Self Transfer",
+        "timestamp": "2025-05-19T12:33:08.003279"
+      }
+    },
+    {
+      "source_address": "bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq",
+      "connected_address": "3Ff3QfmhpDcxjjXWdJQLBhYWoBcGcd8zvT",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "573b1c7cb1d9d91817bb21dd6d2a80cfa7c1cb0785216d6ac7ae2c32d2d80cf5",
+      "value": 50000,
+      "risk_assessment": {
+        "score": 0,
+        "level": "Low",
+        "factors": [],
+        "category": "Self Transfer",
+        "timestamp": "2025-05-19T12:33:08.003359"
+      }
+    },
+    {
+      "source_address": "bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq",
+      "connected_address": "35YEWY1ab1y7aV1oBGoUKwgQwoh8ugod6u",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "573b1c7cb1d9d91817bb21dd6d2a80cfa7c1cb0785216d6ac7ae2c32d2d80cf5",
+      "value": 50000,
+      "risk_assessment": {
+        "score": 0,
+        "level": "Low",
+        "factors": [],
+        "category": "Self Transfer",
+        "timestamp": "2025-05-19T12:33:08.003439"
+      }
+    },
+    {
+      "source_address": "bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq",
+      "connected_address": "3NVXktj7tBaWzkcAuMyxomUcHPerZtcEZp",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "573b1c7cb1d9d91817bb21dd6d2a80cfa7c1cb0785216d6ac7ae2c32d2d80cf5",
+      "value": 50000,
+      "risk_assessment": {
+        "score": 0,
+        "level": "Low",
+        "factors": [],
+        "category": "Self Transfer",
+        "timestamp": "2025-05-19T12:33:08.003518"
+      }
+    },
+    {
+      "source_address": "bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq",
+      "connected_address": "3CizEk5xdPUwtPJ9ogW6YYijeE8yHuvWDY",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "573b1c7cb1d9d91817bb21dd6d2a80cfa7c1cb0785216d6ac7ae2c32d2d80cf5",
+      "value": 50000,
+      "risk_assessment": {
+        "score": 0,
+        "level": "Low",
+        "factors": [],
+        "category": "Self Transfer",
+        "timestamp": "2025-05-19T12:33:08.003596"
+      }
+    },
+    {
+      "source_address": "bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq",
+      "connected_address": "34am5UQeUTEsY68XtjvUtMqC1e8QPswBrJ",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "573b1c7cb1d9d91817bb21dd6d2a80cfa7c1cb0785216d6ac7ae2c32d2d80cf5",
+      "value": 50000,
+      "risk_assessment": {
+        "score": 0,
+        "level": "Low",
+        "factors": [],
+        "category": "Self Transfer",
+        "timestamp": "2025-05-19T12:33:08.003705"
+      }
+    },
+    {
+      "source_address": "bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq",
+      "connected_address": "33dr8vc1f81YfHFVNh1CwNTVUREcCwKTVA",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "573b1c7cb1d9d91817bb21dd6d2a80cfa7c1cb0785216d6ac7ae2c32d2d80cf5",
+      "value": 50000,
+      "risk_assessment": {
+        "score": 0,
+        "level": "Low",
+        "factors": [],
+        "category": "Self Transfer",
+        "timestamp": "2025-05-19T12:33:08.003795"
+      }
+    },
+    {
+      "source_address": "bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq",
+      "connected_address": "3LMUaNwtBfuyD9JrJe4jL1pQTALxCQdQiz",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "573b1c7cb1d9d91817bb21dd6d2a80cfa7c1cb0785216d6ac7ae2c32d2d80cf5",
+      "value": 50000,
+      "risk_assessment": {
+        "score": 0,
+        "level": "Low",
+        "factors": [],
+        "category": "Self Transfer",
+        "timestamp": "2025-05-19T12:33:08.003861"
+      }
+    },
+    {
+      "source_address": "bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq",
+      "connected_address": "3CM11ZRvjfLvXV9CHd2bB3zE4PndeBMx6H",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "573b1c7cb1d9d91817bb21dd6d2a80cfa7c1cb0785216d6ac7ae2c32d2d80cf5",
+      "value": 50000,
+      "risk_assessment": {
+        "score": 0,
+        "level": "Low",
+        "factors": [],
+        "category": "Self Transfer",
+        "timestamp": "2025-05-19T12:33:08.003924"
+      }
+    },
+    {
+      "source_address": "bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq",
+      "connected_address": "3CH4d5wUKTmo3XK8TzEG62askRkd7fiCnp",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "573b1c7cb1d9d91817bb21dd6d2a80cfa7c1cb0785216d6ac7ae2c32d2d80cf5",
+      "value": 50000,
+      "risk_assessment": {
+        "score": 0,
+        "level": "Low",
+        "factors": [],
+        "category": "Self Transfer",
+        "timestamp": "2025-05-19T12:33:08.003993"
+      }
+    },
+    {
+      "source_address": "bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq",
+      "connected_address": "3AvAfHWfQcvacJngmsaYRrHSMnkrwfkXjq",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "573b1c7cb1d9d91817bb21dd6d2a80cfa7c1cb0785216d6ac7ae2c32d2d80cf5",
+      "value": 50000,
+      "risk_assessment": {
+        "score": 0,
+        "level": "Low",
+        "factors": [],
+        "category": "Self Transfer",
+        "timestamp": "2025-05-19T12:33:08.004074"
+      }
+    },
+    {
+      "source_address": "3J98t1WpEZ73CNmQviecrnyiWrnqRhWNLy",
+      "connected_address": "bc1pekx9e79hupzatk252ln9r7nn3085lwl0jfl0rwlnyu5g2u33445qm9yvra",
+      "connection_type": "sent_to",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "a06a3307c13bdc21fb5009fa69ffdf51c27086a5fe5ee45883c6780a9b427bc2",
+      "value": 330,
+      "risk_assessment": {
+        "score": 0,
+        "level": "Low",
+        "factors": [],
+        "category": "Simple Transfer",
+        "timestamp": "2025-05-19T12:33:18.036558"
+      }
+    },
+    {
+      "source_address": "3J98t1WpEZ73CNmQviecrnyiWrnqRhWNLy",
+      "connected_address": "bc1pecwqvsz6nfuz7mymkm0n9hlc9pepkqruz9m56jyc5ejdddpyv37qx2q7sy",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "4d63ec85d7b484e681167e528e06d418e3a9eeb75908f8265cd4756e3b9c4b47",
+      "value": 5360,
+      "risk_assessment": {
+        "score": 65,
+        "level": "High",
+        "factors": [
+          {
+            "factor": "Chain Peel",
+            "weight": 65
+          }
+        ],
+        "category": "Chain Peeling",
+        "timestamp": "2025-05-19T12:33:18.036713"
+      }
+    },
+    {
+      "source_address": "3J98t1WpEZ73CNmQviecrnyiWrnqRhWNLy",
+      "connected_address": "bc1pjty83d95xf6mdwjjc246alp6k99ancjlxh9xatmj9ay3r2zxg6qsmmvlsk",
+      "connection_type": "sent_to",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "903bb25ccfd32155e866cf5787ad499a92a2792bf9ae7aca05c30f1678b64183",
+      "value": 330,
+      "risk_assessment": {
+        "score": 0,
+        "level": "Low",
+        "factors": [],
+        "category": "Simple Transfer",
+        "timestamp": "2025-05-19T12:33:18.036877"
+      }
+    },
+    {
+      "source_address": "3J98t1WpEZ73CNmQviecrnyiWrnqRhWNLy",
+      "connected_address": "bc1qh90u5xwfctlgwnj3tetr053t6hw5tm86xtzu6g",
+      "connection_type": "received_from",
+      "transaction_count": 2,
+      "first_seen": "",
+      "transaction_hashes": "7d7c4413c997c16a82d749d1f77604f27f076da3b1052c077986721c8964ebd1,a93d7ffb1b12143970ca9ccaa1a2c44b47b88183bd8073850bef2c2f3f58d023",
+      "value": 7000,
+      "risk_assessment": {
+        "score": 65,
+        "level": "High",
+        "factors": [
+          {
+            "factor": "Chain Peel",
+            "weight": 65
+          }
+        ],
+        "category": "Chain Peeling",
+        "timestamp": "2025-05-19T12:33:18.037010"
+      }
+    },
+    {
+      "source_address": "3J98t1WpEZ73CNmQviecrnyiWrnqRhWNLy",
+      "connected_address": "bc1p42hgy2avp0clyyrzz4uv3j8pggskxht0zlfa30k982t0hmysav2sp37dq2",
+      "connection_type": "sent_to",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "8f5144effc3509791ab0000a7b3f5881e4101ca9206432737e5fb4471483ed2b",
+      "value": 2344,
+      "risk_assessment": {
+        "score": 0,
+        "level": "Low",
+        "factors": [],
+        "category": "Standard Transaction",
+        "timestamp": "2025-05-19T12:33:18.037125"
+      }
+    },
+    {
+      "source_address": "3J98t1WpEZ73CNmQviecrnyiWrnqRhWNLy",
+      "connected_address": "bc1pws6pvj75rcsc2eglpp9k570prnjh40nfpyahlyumk8y8smjayvasyhns5c",
+      "connection_type": "co_spending",
+      "transaction_count": 3,
+      "first_seen": "",
+      "transaction_hashes": "71b7c046eee25f2dee7aff27b70bc12699cb525f5c45da8941e6f4eec45374a7,8f5144effc3509791ab0000a7b3f5881e4101ca9206432737e5fb4471483ed2b,3cc35233231ca20173dbbbb34fb8b5ffec559fee230094551d05f6ee04d2e8fd",
+      "risk_assessment": {
+        "score": 0,
+        "level": "Low",
+        "factors": [],
+        "category": "Standard Transaction",
+        "timestamp": "2025-05-19T12:33:18.037290"
+      }
+    },
+    {
+      "source_address": "3J98t1WpEZ73CNmQviecrnyiWrnqRhWNLy",
+      "connected_address": "bc1pws6pvj75rcsc2eglpp9k570prnjh40nfpyahlyumk8y8smjayvasyhns5c",
+      "connection_type": "shared_wallet_control",
+      "transaction_count": 3,
+      "first_seen": "",
+      "transaction_hashes": "71b7c046eee25f2dee7aff27b70bc12699cb525f5c45da8941e6f4eec45374a7,8f5144effc3509791ab0000a7b3f5881e4101ca9206432737e5fb4471483ed2b,3cc35233231ca20173dbbbb34fb8b5ffec559fee230094551d05f6ee04d2e8fd",
+      "risk_assessment": {
+        "score": 0,
+        "level": "Low",
+        "factors": [],
+        "category": "Standard Transaction",
+        "timestamp": "2025-05-19T12:33:18.037351"
+      }
+    },
+    {
+      "source_address": "3J98t1WpEZ73CNmQviecrnyiWrnqRhWNLy",
+      "connected_address": "bc1pz8fnegl3dqs45ekzgplm6ztyz7s69qvpnlqkcmzjdhkt3fyj77yqrvpgvv",
+      "connection_type": "sent_to",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "3cc35233231ca20173dbbbb34fb8b5ffec559fee230094551d05f6ee04d2e8fd",
+      "value": 2634,
+      "risk_assessment": {
+        "score": 0,
+        "level": "Low",
+        "factors": [],
+        "category": "Standard Transaction",
+        "timestamp": "2025-05-19T12:33:18.037503"
+      }
+    },
+    {
+      "source_address": "3J98t1WpEZ73CNmQviecrnyiWrnqRhWNLy",
+      "connected_address": "bc1pw040nuemeycplczsc9ltn0udewm93tcvgy62faqhzl7y6xext8ssk36t0r",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "5d4376b15af6fd689a9f842b27f421534844805353784e9cd04c28e24d727e81",
+      "value": 546,
+      "risk_assessment": {
+        "score": 0,
+        "level": "Low",
+        "factors": [],
+        "category": "Self Transfer",
+        "timestamp": "2025-05-19T12:33:18.037658"
+      }
+    },
+    {
+      "source_address": "3J98t1WpEZ73CNmQviecrnyiWrnqRhWNLy",
+      "connected_address": "3KHm79eTMb6t756cbRfAvttgEBW3tcGSLm",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "5d4376b15af6fd689a9f842b27f421534844805353784e9cd04c28e24d727e81",
+      "value": 546,
+      "risk_assessment": {
+        "score": 0,
+        "level": "Low",
+        "factors": [],
+        "category": "Self Transfer",
+        "timestamp": "2025-05-19T12:33:18.037718"
+      }
+    },
+    {
+      "source_address": "3J98t1WpEZ73CNmQviecrnyiWrnqRhWNLy",
+      "connected_address": "bc1qj2uv8ft04sfpmhxll0y9kqhmnmmgzqu2zplyzu",
+      "connection_type": "sent_to",
+      "transaction_count": 2,
+      "first_seen": "",
+      "transaction_hashes": "43e1dfe7e5fa2d7278cee6283473a023592586f5354df4b8840c55820707aadd,fb84916bc90c5dd83a883704c783507bea5c610e0215caa6ee3d3f2a626d2a11",
+      "value": 294,
+      "risk_assessment": {
+        "score": 0,
+        "level": "Low",
+        "factors": [],
+        "category": "Simple Transfer",
+        "timestamp": "2025-05-19T12:33:18.037889"
+      }
+    },
+    {
+      "source_address": "3J98t1WpEZ73CNmQviecrnyiWrnqRhWNLy",
+      "connected_address": "bc1pzlzzscnjt9rrp6u04r9ytm7ah4qwe0u3y4w0vpfs9e3enes3ewsqp6h5sz",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "82adff0770a869089336c42aa6a4bd44e7292bbd2f3aa4aac8f84970e4af4c4e",
+      "value": 7280,
+      "risk_assessment": {
+        "score": 65,
+        "level": "High",
+        "factors": [
+          {
+            "factor": "Chain Peel",
+            "weight": 65
+          }
+        ],
+        "category": "Chain Peeling",
+        "timestamp": "2025-05-19T12:33:18.038074"
+      }
+    },
+    {
+      "source_address": "3J98t1WpEZ73CNmQviecrnyiWrnqRhWNLy",
+      "connected_address": "bc1plw92qv4vuwmkep5k74t89ktddet3t9cdsnq3fdvxuz87ypnes2fqypjypv",
+      "connection_type": "sent_to",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "71b7c046eee25f2dee7aff27b70bc12699cb525f5c45da8941e6f4eec45374a7",
+      "value": 4935,
+      "risk_assessment": {
+        "score": 0,
+        "level": "Low",
+        "factors": [],
+        "category": "Standard Transaction",
+        "timestamp": "2025-05-19T12:33:18.038131"
+      }
+    },
+    {
+      "source_address": "3J98t1WpEZ73CNmQviecrnyiWrnqRhWNLy",
+      "connected_address": "bc1pl07wjcdhmw2ym95w8knf2u8myg32x95xpzp9kj7lcapzgq4ysmcsxm6xut",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "8d9446820308f3c69bd0835ec12ca8e341681ed7a961a510be8dc5abdc5ea009",
+      "value": 546,
+      "risk_assessment": {
+        "score": 0,
+        "level": "Low",
+        "factors": [],
+        "category": "Self Transfer",
+        "timestamp": "2025-05-19T12:33:18.038406"
+      }
+    },
+    {
+      "source_address": "3J98t1WpEZ73CNmQviecrnyiWrnqRhWNLy",
+      "connected_address": "bc1qge5jav8ha7gl4s2njgfc68lu4aafpdm52z66uy",
+      "connection_type": "sent_to",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "e82f055f29851461a31f730d83a99b5378a4a5086d1b300c1df2cce7d04b1411",
+      "value": 4100,
+      "risk_assessment": {
+        "score": 0,
+        "level": "Low",
+        "factors": [],
+        "category": "Simple Transfer",
+        "timestamp": "2025-05-19T12:33:18.038616"
+      }
+    },
+    {
+      "source_address": "3J98t1WpEZ73CNmQviecrnyiWrnqRhWNLy",
+      "connected_address": "bc1qncnwzt9ls0nmksvackzru9j5sxkqdfqgytx9pd",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "62171719780cbe33f74ca15ade64a060c65bb150f73a8f39c517c1b827fb33bb",
+      "value": 30000,
+      "risk_assessment": {
+        "score": 65,
+        "level": "High",
+        "factors": [
+          {
+            "factor": "Chain Peel",
+            "weight": 65
+          }
+        ],
+        "category": "Chain Peeling",
+        "timestamp": "2025-05-19T12:33:18.038790"
+      }
+    },
+    {
+      "source_address": "3J98t1WpEZ73CNmQviecrnyiWrnqRhWNLy",
+      "connected_address": "bc1q8742wwqvxhfaxpahe23a9ggr3lflutq9fds4fr",
+      "connection_type": "sent_to",
+      "transaction_count": 2,
+      "first_seen": "",
+      "transaction_hashes": "ef997608a60615437695dd615ebb1856c0c6bf3bd714a745928bd2269586f6cd,3ac400a245c70756307c67e36149a3388b1591a2aca63c6f08b44e0f0f66ed83",
+      "value": 6563,
+      "risk_assessment": {
+        "score": 0,
+        "level": "Low",
+        "factors": [],
+        "category": "Simple Transfer",
+        "timestamp": "2025-05-19T12:33:18.039021"
+      }
+    },
+    {
+      "source_address": "3J98t1WpEZ73CNmQviecrnyiWrnqRhWNLy",
+      "connected_address": "bc1qprdf80adfz7aekh5nejjfrp3jksc8r929svpxk",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "11ff91a72757661ce7d2b114551971abd288c4027a2d635122f03ad08d1d9b57",
+      "value": 7563,
+      "risk_assessment": {
+        "score": 15,
+        "level": "Low",
+        "factors": [
+          {
+            "factor": "Round Amounts",
+            "weight": 15
+          }
+        ],
+        "category": "Self Transfer",
+        "timestamp": "2025-05-19T12:33:18.039233"
+      }
+    },
+    {
+      "source_address": "3J98t1WpEZ73CNmQviecrnyiWrnqRhWNLy",
+      "connected_address": "bc1pqxr5rerfz2w36ghyx3efk9c2kle9cst8uhaw6gj86s88e3n92efsff5ghp",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "423bef416f2334134d3618b13f162fa75d6a68cfb99d19194690ea931d61b143",
+      "value": 16700,
+      "risk_assessment": {
+        "score": 65,
+        "level": "High",
+        "factors": [
+          {
+            "factor": "Chain Peel",
+            "weight": 65
+          }
+        ],
+        "category": "Chain Peeling",
+        "timestamp": "2025-05-19T12:33:18.039383"
+      }
+    },
+    {
+      "source_address": "3J98t1WpEZ73CNmQviecrnyiWrnqRhWNLy",
+      "connected_address": "bc1qc6xuv5gprxh8xlfztgktkfn9j0zmlu0qethjhk",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "7fcb1e962cb9f282c5ffc8d8bc1dad07a52fe6c754b8e470dfc0454e6e45b553",
+      "value": 963081,
+      "risk_assessment": {
+        "score": 0,
+        "level": "Low",
+        "factors": [],
+        "category": "Self Transfer",
+        "timestamp": "2025-05-19T12:33:18.039625"
+      }
+    },
+    {
+      "source_address": "3J98t1WpEZ73CNmQviecrnyiWrnqRhWNLy",
+      "connected_address": "bc1qhg7vatcne6q3ftwuxt6eqkqy44j3alr8vm2xz6",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "7fcb1e962cb9f282c5ffc8d8bc1dad07a52fe6c754b8e470dfc0454e6e45b553",
+      "value": 963081,
+      "risk_assessment": {
+        "score": 0,
+        "level": "Low",
+        "factors": [],
+        "category": "Self Transfer",
+        "timestamp": "2025-05-19T12:33:18.039697"
+      }
+    },
+    {
+      "source_address": "3J98t1WpEZ73CNmQviecrnyiWrnqRhWNLy",
+      "connected_address": "bc1qh64jf6yzwegj4x06mlg3d3hl3e2cyma29uh8gg",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "7fcb1e962cb9f282c5ffc8d8bc1dad07a52fe6c754b8e470dfc0454e6e45b553",
+      "value": 963081,
+      "risk_assessment": {
+        "score": 0,
+        "level": "Low",
+        "factors": [],
+        "category": "Self Transfer",
+        "timestamp": "2025-05-19T12:33:18.039785"
+      }
+    },
+    {
+      "source_address": "3J98t1WpEZ73CNmQviecrnyiWrnqRhWNLy",
+      "connected_address": "bc1qwkt7k9h8sd7d52hed8ldkhf34dr7rxagepgazk",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "7fcb1e962cb9f282c5ffc8d8bc1dad07a52fe6c754b8e470dfc0454e6e45b553",
+      "value": 963081,
+      "risk_assessment": {
+        "score": 0,
+        "level": "Low",
+        "factors": [],
+        "category": "Self Transfer",
+        "timestamp": "2025-05-19T12:33:18.039858"
+      }
+    },
+    {
+      "source_address": "3J98t1WpEZ73CNmQviecrnyiWrnqRhWNLy",
+      "connected_address": "bc1q0txz5puqcvgprprmrh5uzta28cs552tfntsyhc",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "7fcb1e962cb9f282c5ffc8d8bc1dad07a52fe6c754b8e470dfc0454e6e45b553",
+      "value": 963081,
+      "risk_assessment": {
+        "score": 0,
+        "level": "Low",
+        "factors": [],
+        "category": "Self Transfer",
+        "timestamp": "2025-05-19T12:33:18.039921"
+      }
+    },
+    {
+      "source_address": "3J98t1WpEZ73CNmQviecrnyiWrnqRhWNLy",
+      "connected_address": "bc1qhvlf6quladh05a25matgnj95jxet2dsg7mvtrm",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "7fcb1e962cb9f282c5ffc8d8bc1dad07a52fe6c754b8e470dfc0454e6e45b553",
+      "value": 963081,
+      "risk_assessment": {
+        "score": 0,
+        "level": "Low",
+        "factors": [],
+        "category": "Self Transfer",
+        "timestamp": "2025-05-19T12:33:18.040003"
+      }
+    },
+    {
+      "source_address": "3J98t1WpEZ73CNmQviecrnyiWrnqRhWNLy",
+      "connected_address": "bc1qn0er3tqyeza8m2d3vc2rjegmc478e568d9m8ru",
+      "connection_type": "received_from",
+      "transaction_count": 1,
+      "first_seen": "",
+      "transaction_hashes": "7fcb1e962cb9f282c5ffc8d8bc1dad07a52fe6c754b8e470dfc0454e6e45b553",
+      "value": 963081,
+      "risk_assessment": {
+        "score": 0,
+        "level": "Low",
+        "factors": [],
+        "category": "Self Transfer",
+        "timestamp": "2025-05-19T12:33:18.040096"
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-05-19T12:33:18.132860",
+    "connection_count": 238,
+    "cluster_count": 1
+  },
+  "clusters": {
+    "1": {
+      "cluster_id": 1,
+      "size": 14,
+      "addresses": [
+        "bc1qq6hag67dl53wl99vzg42z8eyzfz2xlkvxechjp",
+        "1JtK9CQw1syfWj1WtFMWomrYdV3W2tWBF9",
+        "1HZwkjkeaoZfTSaJxDw6aKkxp45agDiEzN",
+        "bc1qxdw4t0uvnztl6jxuxvvpnsmx9fg4w7qxv5tgm4",
+        "1BgGZ9tcN4rm9KBzDn7KprQz87SZ26SAMH"
+      ],
+      "confidence": "high",
+      "type": "medium_wallet",
+      "creation_date": "9999-12-31T23:59:59",
+      "transaction_count": 1,
+      "unique_transaction_count": 1,
+      "evidence_summary": {
+        "co_spending": 12,
+        "shared_wallet_control": 12,
+        "likely_change": 1
+      }
+    }
+  }
+}

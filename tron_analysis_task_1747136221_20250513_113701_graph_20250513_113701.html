@@ -1,0 +1,127 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        
+            <script src="lib/bindings/utils.js"></script>
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/dist/vis-network.min.css" integrity="sha512-WgxfT5LWjfszlPHXRmBWHkV2eceiWTOBvrKCNbdgDYTHrT2AeLCGbF4sZlZw3UMN3WtL0tGUoIAKsu8mllg/XA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/vis-network.min.js" integrity="sha512-LnvoEWDFrqGHlHmDD2101OrLcbsfkrzoSpvtSQtxK3RMnRV0eOkhhBN2dXHKRrUU8p2DGRTk35n4O8nWSVe1mQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+            
+        
+<center>
+<h1>TRON Wallet Network Analysis - 2025-05-13 11:37:01<br><span style='font-size:0.9em'>Analyzed 17 wallets with 6 connections</span><div style='margin-top:5px; font-size:0.8em;'>1 token type</div><div style='margin-top:10px; font-size:0.8em; text-align:center;'><span style='color:#3498db;'>&#9679;</span> Exchange &nbsp;<span style='color:#2ecc71;'>&#9679;</span> Personal &nbsp;<span style='color:#e74c3c;'>&#9679;</span> Contract &nbsp;<span style='color:#f39c12;'>&#9679;</span> Mining &nbsp;<span style='color:#9b59b6;'>&#9679;</span> Unknown</div><div style='margin-top:5px; font-size:0.8em; text-align:center;'><span style='color:#555555;'>——</span> TRX Transfer &nbsp;<span style='color:#3498db;'>——</span> Token Transfer</div></h1>
+</center>
+
+<!-- <link rel="stylesheet" href="../node_modules/vis/dist/vis.min.css" type="text/css" />
+<script type="text/javascript" src="../node_modules/vis/dist/vis.js"> </script>-->
+        <link
+          href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css"
+          rel="stylesheet"
+          integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6"
+          crossorigin="anonymous"
+        />
+        <script
+          src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js"
+          integrity="sha384-JEW9xMcG8R+pH31jmWH6WWP0WintQrMb4s7ZOdauHnUtxwoG2vI5DkLtS3qm9Ekf"
+          crossorigin="anonymous"
+        ></script>
+
+
+        <center>
+          <h1>TRON Wallet Network Analysis - 2025-05-13 11:37:01<br><span style='font-size:0.9em'>Analyzed 17 wallets with 6 connections</span><div style='margin-top:5px; font-size:0.8em;'>1 token type</div><div style='margin-top:10px; font-size:0.8em; text-align:center;'><span style='color:#3498db;'>&#9679;</span> Exchange &nbsp;<span style='color:#2ecc71;'>&#9679;</span> Personal &nbsp;<span style='color:#e74c3c;'>&#9679;</span> Contract &nbsp;<span style='color:#f39c12;'>&#9679;</span> Mining &nbsp;<span style='color:#9b59b6;'>&#9679;</span> Unknown</div><div style='margin-top:5px; font-size:0.8em; text-align:center;'><span style='color:#555555;'>——</span> TRX Transfer &nbsp;<span style='color:#3498db;'>——</span> Token Transfer</div></h1>
+        </center>
+        <style type="text/css">
+
+             #mynetwork {
+                 width: 100%;
+                 height: 800px;
+                 background-color: #ffffff;
+                 border: 1px solid lightgray;
+                 position: relative;
+                 float: left;
+             }
+
+             
+
+             
+
+             
+        </style>
+    </head>
+
+
+    <body>
+        <div class="card" style="width: 100%">
+            
+            
+            <div id="mynetwork" class="card-body"></div>
+        </div>
+
+        
+        
+
+        <script type="text/javascript">
+
+              // initialize global variables.
+              var edges;
+              var nodes;
+              var allNodes;
+              var allEdges;
+              var nodeColors;
+              var originalNodes;
+              var network;
+              var container;
+              var options, data;
+              var filter = {
+                  item : '',
+                  property : '',
+                  value : []
+              };
+
+              
+
+              
+
+              // This method is responsible for drawing the graph, returns the drawn network
+              function drawGraph() {
+                  var container = document.getElementById('mynetwork');
+
+                  
+
+                  // parsing and collecting nodes and edges from the python
+                  nodes = new vis.DataSet([{"color": "#2ecc71", "font": {"color": "white"}, "id": "TPLkGNtjPcEK3PhKqAkr7qKkjhYhpfQZUM", "label": "TPLkGN...QZUM", "shape": "dot", "size": 12, "title": "Address: TPLkGNtjPcEK3PhKqAkr7qKkjhYhpfQZUM\nBalance: 0.00 TRX\nTransactions: 24\nType: Personal\nRisk Score: 0"}, {"color": "#2ecc71", "font": {"color": "white"}, "id": "TTMFTv7WNP1uhfrEwfRdNZM8mhHBniiC8T", "label": "TTMFTv...iC8T", "shape": "dot", "size": 11, "title": "Address: TTMFTv7WNP1uhfrEwfRdNZM8mhHBniiC8T\nBalance: 0.00 TRX\nTransactions: 16\nType: Personal\nRisk Score: 0"}, {"color": "#2ecc71", "font": {"color": "white"}, "id": "TYAGhnwUQ2aWhwN9nNDw8C3pXRprLit24A", "label": "TYAGhn...t24A", "shape": "dot", "size": 10, "title": "Address: TYAGhnwUQ2aWhwN9nNDw8C3pXRprLit24A\nBalance: 0.00 TRX\nTransactions: 7\nType: Personal\nRisk Score: 0"}, {"color": "#2ecc71", "font": {"color": "white"}, "id": "TBi1BtDjw3JibCNUCGycSwStRZfZi1JPPW", "label": "TBi1Bt...JPPW", "shape": "dot", "size": 11, "title": "Address: TBi1BtDjw3JibCNUCGycSwStRZfZi1JPPW\nBalance: 0.00 TRX\nTransactions: 12\nType: Personal\nRisk Score: 0"}, {"color": "#e74c3c", "font": {"color": "white"}, "id": "TEqAjvCS4G71VYminY8tGnunTjEzKrrQDJ", "label": "TEqAjv...rQDJ", "shape": "dot", "size": 20, "title": "Address: TEqAjvCS4G71VYminY8tGnunTjEzKrrQDJ\nBalance: 0.00 TRX\nTransactions: 100\nType: Contract\nRisk Score: 0"}, {"color": "#e74c3c", "font": {"color": "white"}, "id": "TQ1TFctjSWzwCouZxM2Q5VNh6azxqpKSAr", "label": "TQ1TFc...KSAr", "shape": "dot", "size": 20, "title": "Address: TQ1TFctjSWzwCouZxM2Q5VNh6azxqpKSAr\nBalance: 0.00 TRX\nTransactions: 100\nType: Contract\nRisk Score: 0"}, {"color": "#2ecc71", "font": {"color": "white"}, "id": "TBvBVwJhM88ewcq2xNP2N21gEC6HazVqZC", "label": "TBvBVw...VqZC", "shape": "dot", "size": 11.9, "title": "Address: TBvBVwJhM88ewcq2xNP2N21gEC6HazVqZC\nBalance: 0.00 TRX\nTransactions: 19\nType: Personal\nRisk Score: 0"}, {"color": "#2ecc71", "font": {"color": "white"}, "id": "TEsNXJrBUB1pKxQHhpY7ByeJyYBUQaEPM8", "label": "TEsNXJ...EPM8", "shape": "dot", "size": 10.2, "title": "Address: TEsNXJrBUB1pKxQHhpY7ByeJyYBUQaEPM8\nBalance: 0.00 TRX\nTransactions: 2\nType: Personal\nRisk Score: 0"}, {"color": "#2ecc71", "font": {"color": "white"}, "id": "TMZwm3xLsVXEzsnz6fLiptdd7QFj5cc3rm", "label": "TMZwm3...c3rm", "shape": "dot", "size": 11.8, "title": "Address: TMZwm3xLsVXEzsnz6fLiptdd7QFj5cc3rm\nBalance: 0.00 TRX\nTransactions: 18\nType: Personal\nRisk Score: 0"}, {"color": "#2ecc71", "font": {"color": "white"}, "id": "TMbBLEsSFyzbTXLqT1d7HXu7Ud6JsD87gL", "label": "TMbBLE...87gL", "shape": "dot", "size": 11.1, "title": "Address: TMbBLEsSFyzbTXLqT1d7HXu7Ud6JsD87gL\nBalance: 0.00 TRX\nTransactions: 11\nType: Personal\nRisk Score: 0"}, {"color": "#e74c3c", "font": {"color": "white"}, "id": "TPfKFeSNkBvDK2en44SebpMnKHdDhcY4YV", "label": "TPfKFe...Y4YV", "shape": "dot", "size": 17.1, "title": "Address: TPfKFeSNkBvDK2en44SebpMnKHdDhcY4YV\nBalance: 0.00 TRX\nTransactions: 71\nType: Contract\nRisk Score: 0"}, {"color": "#e74c3c", "font": {"color": "white"}, "id": "TJzPf3sJ9UaqHPdcu9Jzia6dCVCMpMAvtb", "label": "TJzPf3...Avtb", "shape": "dot", "size": 15.5, "title": "Address: TJzPf3sJ9UaqHPdcu9Jzia6dCVCMpMAvtb\nBalance: 0.00 TRX\nTransactions: 55\nType: Contract\nRisk Score: 0"}, {"color": "#2ecc71", "font": {"color": "white"}, "id": "TMT49u6fXDW27B1EYpL6rapqy8AywnRida", "label": "TMT49u...Rida", "shape": "dot", "size": 13.4, "title": "Address: TMT49u6fXDW27B1EYpL6rapqy8AywnRida\nBalance: 0.00 TRX\nTransactions: 34\nType: Personal\nRisk Score: 0"}, {"color": "#e74c3c", "font": {"color": "white"}, "id": "TBc9ApigG5ReHXoUTP73Nk6iHykoSxH6f3", "label": "TBc9Ap...H6f3", "shape": "dot", "size": 15.8, "title": "Address: TBc9ApigG5ReHXoUTP73Nk6iHykoSxH6f3\nBalance: 0.00 TRX\nTransactions: 58\nType: Contract\nRisk Score: 0"}, {"color": "#2ecc71", "font": {"color": "white"}, "id": "TBC8Qf6waDh521UTcyorRnBeYJqrL9HQBG", "label": "TBC8Qf...HQBG", "shape": "dot", "size": 10.8, "title": "Address: TBC8Qf6waDh521UTcyorRnBeYJqrL9HQBG\nBalance: 0.00 TRX\nTransactions: 8\nType: Personal\nRisk Score: 0"}, {"color": "#9b59b6", "font": {"color": "white"}, "id": "TEFccmfQ38cZS1DTZVhsxKVDckA8Y6VfCy", "label": "TEFccm...VfCy", "shape": "dot", "size": 20.0, "title": "Address: TEFccmfQ38cZS1DTZVhsxKVDckA8Y6VfCy\nBalance: 0.00 TRX\nTransactions: 100\nType: Unknown\nRisk Score: 0"}, {"color": "#2ecc71", "font": {"color": "white"}, "id": "TLuYbfF6qR4p5Ug8CttUbgLT32eRjxQmEm", "label": "TLuYbf...QmEm", "shape": "dot", "size": 11.5, "title": "Address: TLuYbfF6qR4p5Ug8CttUbgLT32eRjxQmEm\nBalance: 0.00 TRX\nTransactions: 15\nType: Personal\nRisk Score: 0"}]);
+                  edges = new vis.DataSet([{"arrows": "to", "color": "#3498db", "from": "TPLkGNtjPcEK3PhKqAkr7qKkjhYhpfQZUM", "title": "Transactions: 6\nTotal: 192.53 TRX\nTokens Sent:\n\u2022 USDT: 100,000,000.00\n", "to": "TTMFTv7WNP1uhfrEwfRdNZM8mhHBniiC8T", "value": 6, "width": 1}, {"arrows": "to", "color": "#3498db", "from": "TTMFTv7WNP1uhfrEwfRdNZM8mhHBniiC8T", "title": "Transactions: 6\nTotal: 192.53 TRX\nTokens Received:\n\u2022 USDT: 100,000,000.00\n", "to": "TPLkGNtjPcEK3PhKqAkr7qKkjhYhpfQZUM", "value": 6, "width": 1}, {"arrows": "to", "color": "#555555", "from": "TYAGhnwUQ2aWhwN9nNDw8C3pXRprLit24A", "title": "Transactions: 1\nTotal: 27.57 TRX", "to": "TBi1BtDjw3JibCNUCGycSwStRZfZi1JPPW", "value": 1, "width": 1}, {"arrows": "to", "color": "#555555", "from": "TBi1BtDjw3JibCNUCGycSwStRZfZi1JPPW", "title": "Transactions: 1\nTotal: 27.57 TRX", "to": "TYAGhnwUQ2aWhwN9nNDw8C3pXRprLit24A", "value": 1, "width": 1}, {"arrows": "to", "color": "#555555", "from": "TEqAjvCS4G71VYminY8tGnunTjEzKrrQDJ", "title": "Transactions: 3\nTotal: 82.50 TRX", "to": "TQ1TFctjSWzwCouZxM2Q5VNh6azxqpKSAr", "value": 3, "width": 1}, {"arrows": "to", "color": "#3498db", "from": "TQ1TFctjSWzwCouZxM2Q5VNh6azxqpKSAr", "title": "Transactions: 13\nTotal: 4353.50 TRX\nTokens Sent:\n\u2022 ???: 39,600,000,000.00\n\nTokens Received:\n\u2022 ???: 2,000,000,000.00\n", "to": "TEqAjvCS4G71VYminY8tGnunTjEzKrrQDJ", "value": 13, "width": 1}]);
+
+                  nodeColors = {};
+                  allNodes = nodes.get({ returnType: "Object" });
+                  for (nodeId in allNodes) {
+                    nodeColors[nodeId] = allNodes[nodeId].color;
+                  }
+                  allEdges = edges.get({ returnType: "Object" });
+                  // adding nodes and edges to the graph
+                  data = {nodes: nodes, edges: edges};
+
+                  var options = {"nodes": {"shape": "dot", "font": {"size": 14, "face": "Roboto"}}, "edges": {"color": {"inherit": false}, "smooth": {"enabled": true, "type": "dynamic"}}, "physics": {"stabilization": {"enabled": true, "iterations": 100}, "barnesHut": {"gravitationalConstant": -80000, "springConstant": 0.001, "springLength": 200}}, "interaction": {"navigationButtons": true, "keyboard": true}};
+
+                  
+
+
+                  
+
+                  network = new vis.Network(container, data, options);
+
+                  
+
+                  
+
+                  
+
+
+                  
+
+                  return network;
+
+              }
+              drawGraph();
+        </script>
+    </body>
+</html>
